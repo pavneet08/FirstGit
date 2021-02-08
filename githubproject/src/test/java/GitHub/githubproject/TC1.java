@@ -44,6 +44,7 @@ public class TC1
 		
 		WebElement trending = driver.findElement(By.xpath("//yt-formatted-string[text()='Trending']"));
 		trending.click();
+		System.out.println("Trending button selected"); 
 		
 		WebElement img = driver.findElement(By.xpath("//img[@id = 'img' and @src = 'https://yt3.ggpht.com/yti/ANoDKi4jOmKAVXGXSuDnmo4DuqP61KKVfbkLtO-T6w=s88-c-k-c0x00ffffff-no-rj-mo']"));
 		img.click();
