@@ -1,0 +1,1324 @@
+2021-02-23 17:30:48  [CC] (main:) Signed in successfully
+2021-02-23 17:32:37  [CC] (main:) Signed in successfully
+2021-02-23 17:32:37  [CC] (main:) Bill to be paid is selected
+2021-02-23 17:36:46  [CC] (main:) Signed in successfully
+2021-02-23 17:36:46  [CC] (main:) Bill to be paid is selected
+2021-02-23 17:36:46  [CC] (main:) We are paying with Credit Card
+2021-02-23 17:36:46  [CC] (main:) We are not saving the payment method
+2021-02-23 17:36:47  [CC] (main:) Card Details are entered successfully
+2021-02-23 17:36:55  [CC] (main:) Payment has been processed with Credit Card
+2021-02-23 17:48:03  [BC] (main:) Signed in successfully
+2021-02-23 17:48:03  [BC] (main:) Bill to be paid is selected
+2021-02-23 17:48:03  [BC] (main:) We are paying with Business Checking
+2021-02-23 17:48:03  [BC] (main:) We are not saving the payment method
+2021-02-23 17:48:05  [BC] (main:) bank account information is added
+2021-02-23 17:48:13  [BC] (main:) Payment has been processed with Business Checking
+2021-02-23 18:09:34  [BC] (main:) Signed in successfully
+2021-02-23 18:09:34  [PC] (main:) Bill to be paid is selected
+2021-02-23 18:09:34  [PC] (main:) We are paying with Personal Checking
+2021-02-23 18:09:34  [PC] (main:) We are not saving the payment method
+2021-02-23 18:09:37  [PC] (main:) bank account information is added
+2021-02-23 18:09:45  [PC] (main:) Payment has been processed with Personal Checking
+2021-02-23 18:28:20  [PS] (main:) Signed in successfully
+2021-02-23 18:28:20  [PS] (main:) Bill to be paid is selected
+2021-02-23 18:28:20  [PS] (main:) We are paying with Personal Savings
+2021-02-23 18:28:20  [PS] (main:) We are not saving the payment method
+2021-02-23 18:28:23  [PS] (main:) bank account information is added
+2021-02-23 18:28:31  [PS] (main:) Payment has been processed with Personal Savings
+2021-02-23 19:39:39  [CC] (main:) Signed in successfully
+2021-02-23 19:39:39  [CC] (main:) Bill to be paid is selected
+2021-02-23 19:39:39  [CC] (main:) We are paying with Credit Card
+2021-02-23 19:39:39  [CC] (main:) We are not saving the payment method
+2021-02-23 19:39:40  [CC] (main:) Card Details are entered successfully
+2021-02-23 19:45:38  [CC] (main:) Signed in successfully
+2021-02-23 19:45:38  [CC] (main:) Bill to be paid is selected
+2021-02-23 19:45:38  [CC] (main:) We are paying with Credit Card
+2021-02-23 19:45:38  [CC] (main:) We are not saving the payment method
+2021-02-23 19:45:38  [CC] (main:) Card Details are entered successfully
+2021-02-23 19:45:46  [CC] (main:) We are on the Payment confirmation page
+2021-02-23 19:45:46  [CC] (main:) Payment has been processed with Credit Card
+2021-02-23 19:48:22  [PS] (main:) Signed in successfully
+2021-02-23 19:48:22  [PS] (main:) Bill to be paid is selected
+2021-02-23 19:48:23  [PS] (main:) We are paying with Personal Savings
+2021-02-23 19:48:23  [PS] (main:) We are not saving the payment method
+2021-02-23 19:48:25  [PS] (main:) bank account information is added
+2021-02-23 19:48:32  [PS] (main:) Assertion passed, We are on the Payment confirmation page
+2021-02-23 19:48:33  [PS] (main:) Payment has been processed with Personal Savings
+2021-02-25 20:02:18  [BC_createPM] (main:) Signed in successfully
+2021-02-25 20:02:18  [BC_createPM] (main:) Bill to be paid is selected
+2021-02-25 20:02:18  [BC_createPM] (main:) We are paying with Business Checking
+2021-02-25 20:02:18  [BC_createPM] (main:) We are creating a Business Checking payment method
+2021-02-25 20:02:20  [BC_createPM] (main:) bank account information is added
+2021-02-25 20:02:42  [BC_createPM] (main:) Payment has been processed with Business Checking
+2021-03-08 17:49:57  [BC] (main:) Signed in successfully
+2021-03-08 17:49:59  [BC] (main:) Bill to be paid is selected
+2021-03-08 17:49:59  [BC] (main:) We are paying with Business Checking
+2021-03-08 17:50:09  [BC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-08 17:50:22  [BC] (main:) Payment has been processed with Business Checking
+2021-03-08 17:54:17  [BC] (main:) Signed in successfully
+2021-03-08 17:54:19  [BC] (main:) Bill to be paid is selected
+2021-03-08 17:54:19  [BC] (main:) We are paying with Business Checking
+2021-03-08 17:54:29  [BC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-08 17:54:29  [BC] (main:) Payment has been processed with Business Checking
+2021-03-08 18:04:19  [CC_PayWithSavedPM] (main:) Signed in successfully
+2021-03-08 18:04:21  [CC_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-08 18:04:21  [CC_PayWithSavedPM] (main:) We are paying with saved Credit Card Payment Method
+2021-03-08 18:04:25  [BC_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-08 18:04:27  [CC_PayWithSavedPM] (main:) Payment has been processed with saved Credit Card Payment Method
+2021-03-08 18:08:22  [PC_PayWithSavedPM] (main:) Signed in successfully
+2021-03-08 18:08:24  [PC_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-08 18:08:24  [PC_PayWithSavedPM] (main:) We are paying with saved Personal checking Payment Method
+2021-03-08 18:08:29  [PC_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-08 18:10:18  [PC_PayWithSavedPM] (main:) Signed in successfully
+2021-03-08 18:10:20  [PC_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-08 18:10:20  [PC_PayWithSavedPM] (main:) We are paying with saved Personal checking Payment Method
+2021-03-08 18:10:25  [PC_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-08 18:10:25  [PC_PayWithSavedPM] (main:) Payment has been processed with saved Personal checking Payment Method
+2021-03-08 18:13:57  [PS_PayWithSavedPM] (main:) Signed in successfully
+2021-03-08 18:13:59  [PS_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-08 18:13:59  [PS_PayWithSavedPM] (main:) We are paying with saved Personal checking Payment Method
+2021-03-08 18:14:04  [PS_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-08 18:14:19  [PS_PayWithSavedPM] (main:) Payment has been processed with saved Personal checking Payment Method
+2021-03-09 11:56:17  [PS_PayWithSavedPM] (main:) Signed in successfully
+2021-03-09 11:56:19  [PS_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-09 11:56:19  [PS_PayWithSavedPM] (main:) We are paying with saved Personal savings Payment Method
+2021-03-09 11:56:23  [PS_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 11:56:38  [PS_PayWithSavedPM] (main:) Payment has been processed with saved Personal savings Payment Method
+2021-03-09 11:57:03  [PS_PayWithSavedPM] (main:) Signed in successfully
+2021-03-09 11:57:05  [PS_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-09 11:57:05  [PS_PayWithSavedPM] (main:) We are paying with saved Personal savings Payment Method
+2021-03-09 11:57:09  [PS_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 11:57:12  [PS_PayWithSavedPM] (main:) Payment has been processed with saved Personal savings Payment Method
+2021-03-09 13:42:23  [BC_PayWithSavedPM] (main:) Signed in successfully
+2021-03-09 13:42:25  [BC_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-09 13:42:25  [BC_PayWithSavedPM] (main:) We are paying with a saved Business Checking payment method
+2021-03-09 13:42:35  [BC_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 13:42:46  [BC_PayWithSavedPM] (main:) Payment has been processed with Business Checking
+2021-03-09 13:42:56  [BC] (main:) Signed in successfully
+2021-03-09 13:42:56  [BC] (main:) Bill to be paid is selected
+2021-03-09 13:42:56  [BC] (main:) We are paying with Business Checking
+2021-03-09 13:42:56  [BC] (main:) We are not saving the payment method
+2021-03-09 13:42:58  [BC] (main:) bank account information is added
+2021-03-09 13:43:06  [BC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 13:43:06  [BC] (main:) Payment has been processed with Business Checking
+2021-03-09 13:43:19  [CC_PayWithSavedPM] (main:) Signed in successfully
+2021-03-09 13:43:21  [CC_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-09 13:43:21  [CC_PayWithSavedPM] (main:) We are paying with saved Credit Card Payment Method
+2021-03-09 13:43:25  [CC_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 13:43:26  [CC_PayWithSavedPM] (main:) Payment has been processed with saved Credit Card Payment Method
+2021-03-09 13:43:35  [CC] (main:) Signed in successfully
+2021-03-09 13:43:35  [CC] (main:) Bill to be paid is selected
+2021-03-09 13:43:35  [CC] (main:) We are paying with Credit Card
+2021-03-09 13:43:36  [CC] (main:) We are not saving the payment method
+2021-03-09 13:43:36  [CC] (main:) Card Details are entered successfully
+2021-03-09 13:43:43  [CC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 13:43:44  [CC] (main:) Payment has been processed with Credit Card
+2021-03-09 13:44:35  [PC_PayWithSavedPM] (main:) Signed in successfully
+2021-03-09 13:44:37  [PC_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-09 13:44:37  [PC_PayWithSavedPM] (main:) We are paying with saved Personal checking Payment Method
+2021-03-09 13:44:42  [PC_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 13:44:44  [PC_PayWithSavedPM] (main:) Payment has been processed with saved Personal checking Payment Method
+2021-03-09 13:44:53  [PC] (main:) Signed in successfully
+2021-03-09 13:44:54  [PC] (main:) Bill to be paid is selected
+2021-03-09 13:44:54  [PC] (main:) We are paying with Personal Checking
+2021-03-09 13:44:54  [PC] (main:) We are not saving the payment method
+2021-03-09 13:44:56  [PC] (main:) bank account information is added
+2021-03-09 13:45:03  [PC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 13:45:04  [PC] (main:) Payment has been processed with Personal Checking
+2021-03-09 13:45:47  [PS_PayWithSavedPM] (main:) Signed in successfully
+2021-03-09 13:45:49  [PS_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-03-09 13:45:49  [PS_PayWithSavedPM] (main:) We are paying with saved Personal savings Payment Method
+2021-03-09 13:45:54  [PS_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 13:45:56  [PS_PayWithSavedPM] (main:) Payment has been processed with saved Personal savings Payment Method
+2021-03-09 13:46:08  [PS] (main:) Signed in successfully
+2021-03-09 13:46:08  [PS] (main:) Bill to be paid is selected
+2021-03-09 13:46:08  [PS] (main:) We are paying with Personal Savings
+2021-03-09 13:46:08  [PS] (main:) We are not saving the payment method
+2021-03-09 13:46:10  [PS] (main:) bank account information is added
+2021-03-09 13:46:18  [PS] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 13:46:18  [PS] (main:) Payment has been processed with Personal Savings
+2021-03-09 16:48:57  [CC] (main:) Signed in successfully
+2021-03-09 16:48:57  [CC] (main:) Bill to be paid is selected
+2021-03-09 16:48:58  [CC] (main:) We are paying with Credit Card
+2021-03-09 16:48:58  [CC] (main:) We are not saving the payment method
+2021-03-09 16:49:44  [CC] (main:) Signed in successfully
+2021-03-09 16:49:45  [CC] (main:) Bill to be paid is selected
+2021-03-09 16:49:45  [CC] (main:) We are paying with Credit Card
+2021-03-09 16:49:45  [CC] (main:) We are not saving the payment method
+2021-03-09 16:50:49  [CC] (main:) Signed in successfully
+2021-03-09 16:50:51  [CC] (main:) Bill to be paid is selected
+2021-03-09 16:50:53  [CC] (main:) We are paying with Credit Card
+2021-03-09 16:50:55  [CC] (main:) We are not saving the payment method
+2021-03-09 16:52:33  [CC] (main:) Signed in successfully
+2021-03-09 16:52:35  [CC] (main:) Bill to be paid is selected
+2021-03-09 16:53:09  [CC] (main:) Signed in successfully
+2021-03-09 16:53:11  [CC] (main:) Bill to be paid is selected
+2021-03-09 16:54:50  [CC] (main:) Signed in successfully
+2021-03-09 16:54:52  [CC] (main:) Bill to be paid is selected
+2021-03-09 16:56:44  [CC] (main:) Signed in successfully
+2021-03-09 16:56:46  [CC] (main:) Bill to be paid is selected
+2021-03-09 16:56:48  [CC] (main:) We are paying with Credit Card
+2021-03-09 16:56:51  [CC] (main:) We are not saving the payment method
+2021-03-09 16:57:27  [CC] (main:) Signed in successfully
+2021-03-09 16:57:29  [CC] (main:) Bill to be paid is selected
+2021-03-09 16:57:31  [CC] (main:) We are paying with Credit Card
+2021-03-09 16:57:33  [CC] (main:) We are not saving the payment method
+2021-03-09 16:57:34  [CC] (main:) Card Details are entered successfully
+2021-03-09 16:57:41  [CC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 16:57:53  [CC] (main:) Payment has been processed with Credit Card
+2021-03-09 17:00:05  [BC] (main:) Signed in successfully
+2021-03-09 17:00:05  [BC] (main:) Bill to be paid is selected
+2021-03-09 17:00:05  [BC] (main:) We are paying with Business Checking
+2021-03-09 17:00:05  [BC] (main:) We are not saving the payment method
+2021-03-09 17:00:07  [BC] (main:) bank account information is added
+2021-03-09 17:00:15  [BC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 17:00:16  [BC] (main:) Payment has been processed with Business Checking
+2021-03-09 17:01:40  [PC] (main:) Signed in successfully
+2021-03-09 17:01:40  [PC] (main:) Bill to be paid is selected
+2021-03-09 17:01:40  [PC] (main:) We are paying with Personal Checking
+2021-03-09 17:01:40  [PC] (main:) We are not saving the payment method
+2021-03-09 17:01:43  [PC] (main:) bank account information is added
+2021-03-09 17:01:50  [PC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 17:01:51  [PC] (main:) Payment has been processed with Personal Checking
+2021-03-09 17:02:46  [PS] (main:) Signed in successfully
+2021-03-09 17:02:46  [PS] (main:) Bill to be paid is selected
+2021-03-09 17:02:47  [PS] (main:) We are paying with Personal Savings
+2021-03-09 17:02:47  [PS] (main:) We are not saving the payment method
+2021-03-09 17:02:49  [PS] (main:) bank account information is added
+2021-03-09 17:02:56  [PS] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 17:02:57  [PS] (main:) Payment has been processed with Personal Savings
+2021-03-09 17:04:12  [PS] (main:) Signed in successfully
+2021-03-09 17:04:12  [PS] (main:) Bill to be paid is selected
+2021-03-09 17:04:12  [PS] (main:) We are paying with Personal Savings
+2021-03-09 17:04:12  [PS] (main:) We are not saving the payment method
+2021-03-09 17:04:14  [PS] (main:) bank account information is added
+2021-03-09 17:04:22  [PS] (main:) Assertion passed, We are on the Payment confirmation page
+2021-03-09 17:04:22  [PS] (main:) Payment has been processed with Personal Savings
+2021-03-09 17:20:56  [Deferred_CC] (main:) Signed in successfully
+2021-03-09 17:20:58  [Deferred_CC] (main:) Bill to be paid is selected
+2021-03-09 17:21:52  [Deferred_CC] (main:) Signed in successfully
+2021-03-09 17:21:54  [Deferred_CC] (main:) Bill to be paid is selected
+2021-03-09 17:24:08  [Deferred_CC] (main:) Signed in successfully
+2021-03-09 17:24:10  [Deferred_CC] (main:) Bill to be paid is selected
+2021-03-09 17:52:33  [Deferred_CC] (main:) Signed in successfully
+2021-03-09 17:52:35  [Deferred_CC] (main:) Bill to be paid is selected
+2021-03-09 17:53:31  [Deferred_CC] (main:) Signed in successfully
+2021-03-09 17:53:33  [Deferred_CC] (main:) Bill to be paid is selected
+2021-03-09 17:57:04  [Deferred_CC] (main:) Signed in successfully
+2021-03-09 17:57:06  [Deferred_CC] (main:) Bill to be paid is selected
+2021-03-09 17:57:10  [Deferred_CC] (main:) We are paying with Credit Card
+2021-03-09 17:57:14  [Deferred_CC] (main:) we have selected the frequency
+2021-03-09 17:57:15  [Deferred_CC] (main:) payment date is selected
+2021-03-09 17:57:22  [Deferred_CC] (main:) payment plan has been created
+2021-03-09 18:08:08  [Daily_CC] (main:) Signed in successfully
+2021-03-09 18:08:11  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-09 18:08:13  [Daily_CC] (main:) Schedule button is selected
+2021-03-09 18:08:15  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-09 18:08:19  [Daily_CC] (main:) we have selected the frequency
+2021-03-09 18:08:20  [Daily_CC] (main:) payment date is selected
+2021-03-09 18:08:33  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-03-10 12:04:38  [Daily_CC] (main:) Signed in successfully
+2021-03-10 12:04:40  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-10 12:04:42  [Daily_CC] (main:) Schedule button is selected
+2021-03-10 12:04:44  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-10 12:04:48  [Daily_CC] (main:) we have selected the frequency
+2021-03-10 12:04:49  [Daily_CC] (main:) payment date is selected
+2021-03-10 12:05:09  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-03-10 12:09:53  [Daily_CC] (main:) Signed in successfully
+2021-03-10 12:09:55  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-10 12:09:58  [Daily_CC] (main:) Schedule button is selected
+2021-03-10 12:10:00  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-10 12:10:05  [Daily_CC] (main:) we have selected the frequency
+2021-03-10 12:10:06  [Daily_CC] (main:) payment date is selected
+2021-03-10 12:10:11  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-03-10 12:10:11  [Daily_CC] (main:) Assertion passed, we are on the right page
+2021-03-10 12:16:57  [Daily_CC] (main:) Signed in successfully
+2021-03-10 12:16:59  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-10 12:17:02  [Daily_CC] (main:) Schedule button is selected
+2021-03-10 12:17:04  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-10 12:17:08  [Daily_CC] (main:) we have selected the frequency
+2021-03-10 12:17:10  [Daily_CC] (main:) payment date is selected
+2021-03-10 12:17:11  [Daily_CC] (main:) we are making 2 daily payments
+2021-03-10 12:17:16  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-03-10 12:17:16  [Daily_CC] (main:) Assertion passed, we are on the right page
+2021-03-10 12:31:25  [Daily_CC] (main:) Signed in successfully
+2021-03-10 12:31:27  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-10 12:31:29  [Daily_CC] (main:) Schedule button is selected
+2021-03-10 12:31:31  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-10 12:31:35  [Daily_CC] (main:) we have selected the frequency
+2021-03-10 12:31:36  [Daily_CC] (main:) payment date is selected
+2021-03-10 12:32:24  [Daily_CC] (main:) Signed in successfully
+2021-03-10 12:32:27  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-10 12:32:29  [Daily_CC] (main:) Schedule button is selected
+2021-03-10 12:32:31  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-10 12:32:35  [Daily_CC] (main:) we have selected the frequency
+2021-03-10 12:32:36  [Daily_CC] (main:) payment date is selected
+2021-03-10 12:33:25  [Daily_CC] (main:) Signed in successfully
+2021-03-10 12:33:27  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-10 12:33:29  [Daily_CC] (main:) Schedule button is selected
+2021-03-10 12:33:31  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-10 12:33:35  [Daily_CC] (main:) we have selected the frequency
+2021-03-10 12:33:36  [Daily_CC] (main:) payment date is selected
+2021-03-10 12:35:24  [Daily_CC] (main:) Signed in successfully
+2021-03-10 12:35:26  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-10 12:35:29  [Daily_CC] (main:) Schedule button is selected
+2021-03-10 12:35:31  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-10 12:35:35  [Daily_CC] (main:) we have selected the frequency
+2021-03-10 12:35:36  [Daily_CC] (main:) payment date is selected
+2021-03-10 12:35:37  [Daily_CC] (main:) we are making 2 daily payments
+2021-03-10 12:35:42  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-03-10 12:35:42  [Daily_CC] (main:) Assertion passed, we are on the right page
+2021-03-10 12:41:50  [Daily_CC] (main:) Signed in successfully
+2021-03-10 12:41:52  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-10 12:41:54  [Daily_CC] (main:) Schedule button is selected
+2021-03-10 12:41:56  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-10 12:42:00  [Daily_CC] (main:) we have selected the frequency
+2021-03-10 12:42:02  [Daily_CC] (main:) payment date is selected
+2021-03-10 12:42:03  [Daily_CC] (main:) we are making 2 daily payments
+2021-03-10 12:42:08  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-03-10 12:42:08  [Daily_CC] (main:) Assertion passed, we are on the right page
+2021-03-10 12:43:16  [Daily_CC] (main:) Signed in successfully
+2021-03-10 12:43:18  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-10 12:43:20  [Daily_CC] (main:) Schedule button is selected
+2021-03-10 12:43:22  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-10 12:43:27  [Daily_CC] (main:) we have selected the frequency
+2021-03-10 12:43:28  [Daily_CC] (main:) payment date is selected
+2021-03-11 14:13:12  [Daily_CC] (main:) Signed in successfully
+2021-03-11 14:13:14  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-11 14:13:16  [Daily_CC] (main:) Schedule button is selected
+2021-03-11 14:13:18  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-11 14:13:22  [Daily_CC] (main:) we have selected the frequency
+2021-03-11 14:13:23  [Daily_CC] (main:) payment date is selected
+2021-03-11 14:16:45  [Daily_CC] (main:) Signed in successfully
+2021-03-11 14:16:47  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-11 14:16:49  [Daily_CC] (main:) Schedule button is selected
+2021-03-11 14:16:51  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-11 14:16:55  [Daily_CC] (main:) we have selected the frequency
+2021-03-11 14:16:56  [Daily_CC] (main:) payment date is selected
+2021-03-11 14:17:55  [Daily_CC] (main:) Signed in successfully
+2021-03-11 14:17:57  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-11 14:17:59  [Daily_CC] (main:) Schedule button is selected
+2021-03-11 14:18:01  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-11 14:18:05  [Daily_CC] (main:) we have selected the frequency
+2021-03-11 14:18:06  [Daily_CC] (main:) payment date is selected
+2021-03-11 14:19:00  [Daily_CC] (main:) Signed in successfully
+2021-03-11 14:19:02  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-11 14:19:04  [Daily_CC] (main:) Schedule button is selected
+2021-03-11 14:19:06  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-11 14:19:10  [Daily_CC] (main:) we have selected the frequency
+2021-03-11 14:19:11  [Daily_CC] (main:) payment date is selected
+2021-03-11 14:19:13  [Daily_CC] (main:) we are making 2 daily payments
+2021-03-11 14:19:14  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-03-11 14:21:34  [Daily_CC] (main:) Signed in successfully
+2021-03-11 14:21:37  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-11 14:21:39  [Daily_CC] (main:) Schedule button is selected
+2021-03-11 14:21:41  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-11 14:21:45  [Daily_CC] (main:) we have selected the frequency
+2021-03-11 14:21:46  [Daily_CC] (main:) payment date is selected
+2021-03-11 14:21:48  [Daily_CC] (main:) we are making 2 daily payments
+2021-03-11 14:21:49  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-03-11 14:29:14  [Daily_CC] (main:) Signed in successfully
+2021-03-11 14:29:17  [Daily_CC] (main:) Bill to be paid is selected
+2021-03-11 14:29:19  [Daily_CC] (main:) Schedule button is selected
+2021-03-11 14:29:21  [Daily_CC] (main:) We are paying with Credit Card
+2021-03-11 14:29:25  [Daily_CC] (main:) we have selected the frequency
+2021-03-11 14:29:26  [Daily_CC] (main:) payment date is selected
+2021-03-11 14:29:31  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-03-11 14:29:31  [Daily_CC] (main:) Assertion passed, we are on the right page
+2021-03-11 14:33:23  [Weekly_CC] (main:) Signed in successfully
+2021-03-11 14:33:25  [Weekly_CC] (main:) Bill to be paid is selected
+2021-03-11 14:33:27  [Weekly_CC] (main:) Schedule button is selected
+2021-03-11 14:33:29  [Weekly_CC] (main:) We are paying with Credit Card
+2021-03-11 14:33:33  [Weekly_CC] (main:) we have selected the frequency
+2021-03-11 14:33:34  [Weekly_CC] (main:) payment date is selected
+2021-03-11 14:33:39  [Weekly_CC] (main:) Daily installment payment plan has been created
+2021-03-11 14:33:39  [Weekly_CC] (main:) Assertion passed, we are on the right page
+2021-03-11 14:44:29  [Weekly_CC] (main:) Signed in successfully
+2021-03-11 14:44:31  [Weekly_CC] (main:) Bill to be paid is selected
+2021-03-11 14:44:33  [Weekly_CC] (main:) Schedule button is selected
+2021-03-11 14:44:35  [Weekly_CC] (main:) We are paying with Credit Card
+2021-03-11 14:44:40  [Weekly_CC] (main:) we have selected the frequency
+2021-03-11 14:44:41  [Weekly_CC] (main:) payment date is selected
+2021-03-11 14:44:46  [Weekly_CC] (main:) Daily installment payment plan has been created
+2021-03-11 14:44:46  [Weekly_CC] (main:) Assertion passed, we are on the right page
+2021-03-11 14:45:22  [Monthly_CC] (main:) Signed in successfully
+2021-03-11 14:45:24  [Monthly_CC] (main:) Bill to be paid is selected
+2021-03-11 14:45:27  [Monthly_CC] (main:) Schedule button is selected
+2021-03-11 14:45:29  [Monthly_CC] (main:) We are paying with Credit Card
+2021-03-11 14:45:33  [Monthly_CC] (main:) we have selected the frequency
+2021-03-11 14:45:34  [Monthly_CC] (main:) payment date is selected
+2021-03-11 14:45:39  [Monthly_CC] (main:) Daily installment payment plan has been created
+2021-03-11 14:45:39  [Monthly_CC] (main:) Assertion passed, we are on the right page
+2021-03-11 14:46:09  [Quarterly_CC] (main:) Signed in successfully
+2021-03-11 14:46:11  [Quarterly_CC] (main:) Bill to be paid is selected
+2021-03-11 14:46:13  [Quarterly_CC] (main:) Schedule button is selected
+2021-03-11 14:46:15  [Quarterly_CC] (main:) We are paying with Credit Card
+2021-03-11 14:46:19  [Quarterly_CC] (main:) we have selected the frequency
+2021-03-11 14:46:20  [Quarterly_CC] (main:) payment date is selected
+2021-03-11 14:46:25  [Quarterly_CC] (main:) Daily installment payment plan has been created
+2021-03-11 14:46:25  [Quarterly_CC] (main:) Assertion passed, we are on the right page
+2021-03-11 14:46:51  [Annual_CC] (main:) Signed in successfully
+2021-03-11 14:46:53  [Annual_CC] (main:) Bill to be paid is selected
+2021-03-11 14:46:55  [Annual_CC] (main:) Schedule button is selected
+2021-03-11 14:46:57  [Annual_CC] (main:) We are paying with Credit Card
+2021-03-11 14:47:01  [Annual_CC] (main:) we have selected the frequency
+2021-03-11 14:47:02  [Annual_CC] (main:) payment date is selected
+2021-03-11 14:47:08  [Annual_CC] (main:) Daily installment payment plan has been created
+2021-03-11 14:47:08  [Annual_CC] (main:) Assertion passed, we are on the right page
+2021-03-11 14:59:17  [Recur_DeferredCC] (main:) Signed in successfully
+2021-03-11 14:59:19  [Recur_DeferredCC] (main:) Bill to be paid is selected
+2021-03-11 14:59:24  [Recur_DeferredCC] (main:) We are paying with Credit Card
+2021-03-11 14:59:28  [Recur_DeferredCC] (main:) we have selected the frequency
+2021-03-11 14:59:29  [Recur_DeferredCC] (main:) payment date is selected
+2021-03-11 14:59:34  [Recur_DeferredCC] (main:) Recurring deferred payment plan has been created
+2021-03-11 14:59:34  [Recur_DeferredCC] (main:) Assertion passed, we are on the right page
+2021-03-11 17:28:08  [Recur_DeferredCC] (main:) Signed in successfully
+2021-03-11 17:28:10  [Recur_DeferredCC] (main:) Bill to be paid is selected
+2021-03-11 17:28:16  [Recur_DeferredCC] (main:) We are paying with Credit Card
+2021-03-11 17:28:20  [Recur_DeferredCC] (main:) we have selected the frequency
+2021-03-11 17:28:21  [Recur_DeferredCC] (main:) payment date is selected
+2021-03-11 17:28:26  [Recur_DeferredCC] (main:) Recurring deferred payment plan has been created
+2021-03-11 17:28:26  [Recur_DeferredCC] (main:) Assertion passed, we are on the right page
+2021-03-11 17:30:22  [Recur_DeferredCC] (main:) Signed in successfully
+2021-03-11 17:30:24  [Recur_DeferredCC] (main:) Bill to be paid is selected
+2021-03-11 17:30:28  [Recur_DeferredCC] (main:) We are paying with Credit Card
+2021-03-11 17:30:32  [Recur_DeferredCC] (main:) we have selected the frequency
+2021-03-11 17:30:33  [Recur_DeferredCC] (main:) payment date is selected
+2021-03-11 17:30:38  [Recur_DeferredCC] (main:) Recurring deferred payment plan has been created
+2021-03-11 17:30:38  [Recur_DeferredCC] (main:) Assertion passed, we are on the right page
+2021-03-11 17:37:01  [Recur_WeeklyCC] (main:) Signed in successfully
+2021-03-11 17:37:03  [Recur_WeeklyCC] (main:) Bill to be paid is selected
+2021-03-11 17:37:07  [Recur_WeeklyCC] (main:) We are paying with Credit Card
+2021-03-11 17:37:11  [Recur_WeeklyCC] (main:) we have selected the frequency
+2021-03-11 17:37:12  [Recur_WeeklyCC] (main:) payment date is selected
+2021-03-11 17:37:17  [Recur_WeeklyCC] (main:) Recurring weekly payment plan has been created
+2021-03-11 17:37:17  [Recur_WeeklyCC] (main:) Assertion passed, we are on the right page
+2021-03-11 17:38:07  [Recur_WeeklyCC] (main:) Signed in successfully
+2021-03-11 17:38:09  [Recur_WeeklyCC] (main:) Bill to be paid is selected
+2021-03-11 17:38:13  [Recur_WeeklyCC] (main:) We are paying with Credit Card
+2021-03-11 17:38:17  [Recur_WeeklyCC] (main:) we have selected the frequency
+2021-03-11 17:38:18  [Recur_WeeklyCC] (main:) payment date is selected
+2021-03-11 17:38:24  [Recur_WeeklyCC] (main:) Recurring weekly payment plan has been created
+2021-03-11 17:38:24  [Recur_WeeklyCC] (main:) Assertion passed, we are on the right page
+2021-03-11 17:42:28  [Recur_MonthlyCC] (main:) Signed in successfully
+2021-03-11 17:42:30  [Recur_MonthlyCC] (main:) Bill to be paid is selected
+2021-03-11 17:42:34  [Recur_MonthlyCC] (main:) We are paying with Credit Card
+2021-03-11 17:42:38  [Recur_MonthlyCC] (main:) we have selected the frequency
+2021-03-11 17:42:39  [Recur_MonthlyCC] (main:) payment date is selected
+2021-03-11 17:42:44  [Recur_MonthlyCC] (main:) Recurring monthly payment plan has been created
+2021-03-11 17:42:44  [Recur_MonthlyCC] (main:) Assertion passed, we are on the right page
+2021-03-11 17:48:38  [Recur_QuarterlyCC] (main:) Signed in successfully
+2021-03-11 17:48:40  [Recur_QuarterlyCC] (main:) Bill to be paid is selected
+2021-03-11 17:48:44  [Recur_QuarterlyCC] (main:) We are paying with Credit Card
+2021-03-11 17:48:48  [Recur_QuarterlyCC] (main:) we have selected the frequency
+2021-03-11 17:48:49  [Recur_QuarterlyCC] (main:) payment date is selected
+2021-03-11 17:48:55  [Recur_QuarterlyCC] (main:) Recurring quarterly payment plan has been created
+2021-03-11 17:48:55  [Recur_QuarterlyCC] (main:) Assertion passed, we are on the right page
+2021-03-11 17:50:52  [Recur_AnnualCC] (main:) Signed in successfully
+2021-03-11 17:50:54  [Recur_AnnualCC] (main:) Bill to be paid is selected
+2021-03-11 17:50:58  [Recur_AnnualCC] (main:) We are paying with Credit Card
+2021-03-11 17:51:02  [Recur_AnnualCC] (main:) we have selected the frequency
+2021-03-11 17:51:03  [Recur_AnnualCC] (main:) payment date is selected
+2021-03-11 17:51:09  [Recur_AnnualCC] (main:) Recurring annual payment plan has been created
+2021-03-11 17:51:09  [Recur_AnnualCC] (main:) Assertion passed, we are on the right page
+2021-03-11 17:54:12  [AutopayCC] (main:) Signed in successfully
+2021-03-11 17:54:15  [AutopayCC] (main:) Bill to be paid is selected
+2021-03-11 17:54:19  [AutopayCC] (main:) We are paying with Credit Card
+2021-03-11 17:54:26  [AutopayCC] (main:) Autopay payment plan has been created
+2021-03-11 17:54:26  [AutopayCC] (main:) Assertion passed, we are on the right page
+2021-03-12 10:59:13  [Annual_CC] (main:) Signed in successfully
+2021-03-12 10:59:15  [Annual_CC] (main:) Bill to be paid is selected
+2021-03-12 10:59:17  [Annual_CC] (main:) Schedule button is selected
+2021-03-12 10:59:20  [Annual_CC] (main:) We are paying with Credit Card
+2021-03-12 10:59:25  [Annual_CC] (main:) we have selected the frequency
+2021-03-12 10:59:26  [Annual_CC] (main:) payment date is selected
+2021-03-12 10:59:46  [Annual_CC] (main:) Annual installment payment plan has been created
+2021-03-12 10:59:46  [Annual_CC] (main:) Assertion passed, we are on the right page
+2021-03-12 11:14:24  [Deferred_PC] (main:) Signed in successfully
+2021-03-12 11:14:26  [Deferred_PC] (main:) Bill to be paid is selected
+2021-03-12 11:14:30  [Deferred_PC] (main:) We are paying with Personal Checking
+2021-03-12 11:14:34  [Deferred_PC] (main:) we have selected the frequency
+2021-03-12 11:14:36  [Deferred_PC] (main:) payment date is selected
+2021-03-12 11:14:38  [Deferred_PC] (main:) Deferred installment payment plan has been created
+2021-03-12 11:17:17  [Deferred_PC] (main:) Signed in successfully
+2021-03-12 11:17:19  [Deferred_PC] (main:) Bill to be paid is selected
+2021-03-12 11:17:24  [Deferred_PC] (main:) We are paying with Personal Checking
+2021-03-12 11:17:26  [Deferred_PC] (main:) We have accepted the ACH terms
+2021-03-12 11:17:29  [Deferred_PC] (main:) we have selected the frequency
+2021-03-12 11:17:30  [Deferred_PC] (main:) payment date is selected
+2021-03-12 11:17:36  [Deferred_PC] (main:) Deferred installment payment plan has been created
+2021-03-12 11:17:36  [Deferred_PC] (main:) Assertion passed, we are on the right page
+2021-03-12 11:19:55  [Deferred_PC] (main:) Signed in successfully
+2021-03-12 11:19:57  [Deferred_PC] (main:) Bill to be paid is selected
+2021-03-12 11:20:01  [Deferred_PC] (main:) We are paying with Personal Checking
+2021-03-12 11:20:03  [Deferred_PC] (main:) We have accepted the ACH terms
+2021-03-12 11:20:06  [Deferred_PC] (main:) we have selected the frequency
+2021-03-12 11:20:07  [Deferred_PC] (main:) payment date is selected
+2021-03-12 11:20:13  [Deferred_PC] (main:) Deferred installment payment plan has been created
+2021-03-12 11:20:13  [Deferred_PC] (main:) Assertion passed, we are on the right page
+2021-03-12 11:21:17  [Deferred_CC] (main:) Signed in successfully
+2021-03-12 11:21:19  [Deferred_CC] (main:) Bill to be paid is selected
+2021-03-12 11:21:23  [Deferred_CC] (main:) We are paying with Credit Card
+2021-03-12 11:21:27  [Deferred_CC] (main:) we have selected the frequency
+2021-03-12 11:21:28  [Deferred_CC] (main:) payment date is selected
+2021-03-12 11:21:34  [Deferred_CC] (main:) Deferred installment payment plan has been created
+2021-03-12 11:21:34  [Deferred_CC] (main:) Assertion passed, we are on the right page
+2021-03-12 11:25:07  [Daily_PC] (main:) Signed in successfully
+2021-03-12 11:25:09  [Daily_PC] (main:) Bill to be paid is selected
+2021-03-12 11:25:13  [Daily_PC] (main:) We are paying with Personal Checking
+2021-03-12 11:25:15  [Daily_PC] (main:) We have accepted the ACH terms
+2021-03-12 11:25:19  [Daily_PC] (main:) we have selected the frequency
+2021-03-12 11:25:20  [Daily_PC] (main:) payment date is selected
+2021-03-12 11:25:25  [Daily_PC] (main:) Daily installment payment plan has been created
+2021-03-12 11:25:25  [Daily_PC] (main:) Assertion passed, we are on the right page
+2021-03-12 11:29:21  [Weekly_PC] (main:) Signed in successfully
+2021-03-12 11:29:24  [Weekly_PC] (main:) Bill to be paid is selected
+2021-03-12 11:29:28  [Weekly_PC] (main:) We are paying with Personal Checking
+2021-03-12 11:29:30  [Weekly_PC] (main:) We have accepted the ACH terms
+2021-03-12 11:29:33  [Weekly_PC] (main:) we have selected the frequency
+2021-03-12 11:29:34  [Weekly_PC] (main:) payment date is selected
+2021-03-12 11:29:40  [Weekly_PC] (main:) Weekly installment payment plan has been created
+2021-03-12 11:29:40  [Weekly_PC] (main:) Assertion passed, we are on the right page
+2021-03-12 11:31:21  [Monthly_PC] (main:) Signed in successfully
+2021-03-12 11:31:23  [Monthly_PC] (main:) Bill to be paid is selected
+2021-03-12 11:31:28  [Monthly_PC] (main:) We are paying with Personal Checking
+2021-03-12 11:31:30  [Monthly_PC] (main:) We have accepted the ACH terms
+2021-03-12 11:31:33  [Monthly_PC] (main:) we have selected the frequency
+2021-03-12 11:31:34  [Monthly_PC] (main:) payment date is selected
+2021-03-12 11:31:39  [Monthly_PC] (main:) Monthly installment payment plan has been created
+2021-03-12 11:31:39  [Monthly_PC] (main:) Assertion passed, we are on the right page
+2021-03-12 11:33:44  [Quarterly_PC] (main:) Signed in successfully
+2021-03-12 11:33:46  [Quarterly_PC] (main:) Bill to be paid is selected
+2021-03-12 11:33:50  [Quarterly_PC] (main:) We are paying with Personal Checking
+2021-03-12 11:33:52  [Quarterly_PC] (main:) We have accepted the ACH terms
+2021-03-12 11:33:55  [Quarterly_PC] (main:) we have selected the frequency
+2021-03-12 11:33:56  [Quarterly_PC] (main:) payment date is selected
+2021-03-12 11:34:02  [Quarterly_PC] (main:) Quarterly installment payment plan has been created
+2021-03-12 11:34:02  [Quarterly_PC] (main:) Assertion passed, we are on the right page
+2021-03-12 11:35:51  [Annual_PC] (main:) Signed in successfully
+2021-03-12 11:35:53  [Annual_PC] (main:) Bill to be paid is selected
+2021-03-12 11:35:57  [Annual_PC] (main:) We are paying with Personal Checking
+2021-03-12 11:35:59  [Annual_PC] (main:) We have accepted the ACH terms
+2021-03-12 11:36:03  [Annual_PC] (main:) we have selected the frequency
+2021-03-12 11:36:04  [Annual_PC] (main:) payment date is selected
+2021-03-12 11:36:09  [Annual_PC] (main:) Annual installment payment plan has been created
+2021-03-12 11:36:09  [Annual_PC] (main:) Assertion passed, we are on the right page
+2021-03-12 11:39:17  [Recur_DeferredPC] (main:) Signed in successfully
+2021-03-12 11:39:19  [Recur_DeferredPC] (main:) Bill to be paid is selected
+2021-03-12 11:39:23  [Recur_DeferredPC] (main:) We are paying with Personal Checking
+2021-03-12 11:39:27  [Recur_DeferredPC] (main:) we have selected the frequency
+2021-03-12 11:39:28  [Recur_DeferredPC] (main:) payment date is selected
+2021-03-12 11:39:30  [Recur_DeferredPC] (main:) Recurring deferred payment plan has been created
+2021-03-12 11:40:22  [Recur_DeferredPC] (main:) Signed in successfully
+2021-03-12 11:40:24  [Recur_DeferredPC] (main:) Bill to be paid is selected
+2021-03-12 11:40:28  [Recur_DeferredPC] (main:) We are paying with Personal Checking
+2021-03-12 11:40:30  [Recur_DeferredPC] (main:) We have accepted the ACH terms
+2021-03-12 11:40:34  [Recur_DeferredPC] (main:) we have selected the frequency
+2021-03-12 11:40:35  [Recur_DeferredPC] (main:) payment date is selected
+2021-03-12 11:40:40  [Recur_DeferredPC] (main:) Recurring deferred payment plan has been created
+2021-03-12 11:40:40  [Recur_DeferredPC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:21:33  [Recur_DailyPC] (main:) Signed in successfully
+2021-03-12 12:21:36  [Recur_DailyPC] (main:) Bill to be paid is selected
+2021-03-12 12:21:40  [Recur_DailyPC] (main:) We are paying with Personal Checking
+2021-03-12 12:21:42  [Recur_DailyPC] (main:) We have accepted the ACH terms
+2021-03-12 12:21:45  [Recur_DailyPC] (main:) we have selected the frequency
+2021-03-12 12:21:46  [Recur_DailyPC] (main:) payment date is selected
+2021-03-12 12:21:51  [Recur_DailyPC] (main:) Recurring daily payment plan has been created
+2021-03-12 12:21:51  [Recur_DailyPC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:24:13  [Recur_WeeklyPC] (main:) Signed in successfully
+2021-03-12 12:24:15  [Recur_WeeklyPC] (main:) Bill to be paid is selected
+2021-03-12 12:24:19  [Recur_WeeklyPC] (main:) We are paying with Personal Checking
+2021-03-12 12:24:22  [Recur_WeeklyPC] (main:) We have accepted the ACH terms
+2021-03-12 12:24:25  [Recur_WeeklyPC] (main:) we have selected the frequency
+2021-03-12 12:24:25  [Recur_WeeklyPC] (main:) payment date is selected
+2021-03-12 12:24:30  [Recur_WeeklyPC] (main:) Recurring weekly payment plan has been created
+2021-03-12 12:24:30  [Recur_WeeklyPC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:28:15  [Recur_MonthlyPC] (main:) Signed in successfully
+2021-03-12 12:28:17  [Recur_MonthlyPC] (main:) Bill to be paid is selected
+2021-03-12 12:28:21  [Recur_MonthlyPC] (main:) We are paying with Personal Checking
+2021-03-12 12:28:23  [Recur_MonthlyPC] (main:) We have accepted the ACH terms
+2021-03-12 12:28:27  [Recur_MonthlyPC] (main:) we have selected the frequency
+2021-03-12 12:28:27  [Recur_MonthlyPC] (main:) payment date is selected
+2021-03-12 12:28:32  [Recur_MonthlyPC] (main:) Recurring monthly payment plan has been created
+2021-03-12 12:28:33  [Recur_MonthlyPC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:33:40  [Recur_QuarterlyPC] (main:) Signed in successfully
+2021-03-12 12:33:42  [Recur_QuarterlyPC] (main:) Bill to be paid is selected
+2021-03-12 12:33:47  [Recur_QuarterlyPC] (main:) We are paying with Personal Checking
+2021-03-12 12:33:49  [Recur_QuarterlyPC] (main:) We have accepted the ACH terms
+2021-03-12 12:33:52  [Recur_QuarterlyPC] (main:) we have selected the frequency
+2021-03-12 12:33:52  [Recur_QuarterlyPC] (main:) payment date is selected
+2021-03-12 12:33:57  [Recur_QuarterlyPC] (main:) Recurring quarterly payment plan has been created
+2021-03-12 12:33:57  [Recur_QuarterlyPC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:35:55  [Recur_AnnualPC] (main:) Signed in successfully
+2021-03-12 12:35:57  [Recur_AnnualPC] (main:) Bill to be paid is selected
+2021-03-12 12:36:01  [Recur_AnnualPC] (main:) We are paying with Personal Checking
+2021-03-12 12:36:03  [Recur_AnnualPC] (main:) We have accepted the ACH terms
+2021-03-12 12:36:06  [Recur_AnnualPC] (main:) we have selected the frequency
+2021-03-12 12:36:07  [Recur_AnnualPC] (main:) payment date is selected
+2021-03-12 12:36:13  [Recur_AnnualPC] (main:) Recurring annual payment plan has been created
+2021-03-12 12:36:13  [Recur_AnnualPC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:38:20  [AutopayPC] (main:) Signed in successfully
+2021-03-12 12:38:22  [AutopayPC] (main:) Bill to be paid is selected
+2021-03-12 12:38:26  [AutopayPC] (main:) We are paying with Credit Card
+2021-03-12 12:39:14  [AutopayPC] (main:) Signed in successfully
+2021-03-12 12:39:16  [AutopayPC] (main:) Bill to be paid is selected
+2021-03-12 12:39:20  [AutopayPC] (main:) We are paying with Credit Card
+2021-03-12 12:39:22  [AutopayPC] (main:) We have accepted the ACH terms
+2021-03-12 12:39:29  [AutopayPC] (main:) Autopay payment plan has been created
+2021-03-12 12:39:29  [AutopayPC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:48:46  [Daily_BC] (main:) Signed in successfully
+2021-03-12 12:48:48  [Daily_BC] (main:) Bill to be paid is selected
+2021-03-12 12:49:36  [Daily_BC] (main:) Signed in successfully
+2021-03-12 12:49:38  [Daily_BC] (main:) Bill to be paid is selected
+2021-03-12 12:49:42  [Daily_BC] (main:) We are paying with Business Checking
+2021-03-12 12:49:44  [Daily_BC] (main:) We have accepted the ACH terms
+2021-03-12 12:49:47  [Daily_BC] (main:) we have selected the frequency
+2021-03-12 12:49:48  [Daily_BC] (main:) payment date is selected
+2021-03-12 12:49:54  [Daily_BC] (main:) Daily installment payment plan has been created
+2021-03-12 12:49:54  [Daily_BC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:51:40  [Annual_BC] (main:) Signed in successfully
+2021-03-12 12:51:42  [Annual_BC] (main:) Bill to be paid is selected
+2021-03-12 12:51:46  [Annual_BC] (main:) We are paying with Business Checking
+2021-03-12 12:51:48  [Annual_BC] (main:) We have accepted the ACH terms
+2021-03-12 12:51:51  [Annual_BC] (main:) we have selected the frequency
+2021-03-12 12:51:52  [Annual_BC] (main:) payment date is selected
+2021-03-12 12:52:10  [Annual_BC] (main:) Annual installment payment plan has been created
+2021-03-12 12:52:10  [Annual_BC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:54:48  [AutopayBC] (main:) Signed in successfully
+2021-03-12 12:54:50  [AutopayBC] (main:) Bill to be paid is selected
+2021-03-12 12:54:55  [AutopayBC] (main:) We are paying with Business checking
+2021-03-12 12:54:57  [AutopayBC] (main:) We have accepted the ACH terms
+2021-03-12 12:55:03  [AutopayBC] (main:) Autopay payment plan has been created
+2021-03-12 12:55:03  [AutopayBC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:57:12  [Deferred_BC] (main:) Signed in successfully
+2021-03-12 12:57:14  [Deferred_BC] (main:) Bill to be paid is selected
+2021-03-12 12:57:19  [Deferred_BC] (main:) We are paying with Business Checking
+2021-03-12 12:57:21  [Deferred_BC] (main:) We have accepted the ACH terms
+2021-03-12 12:57:24  [Deferred_BC] (main:) we have selected the frequency
+2021-03-12 12:57:25  [Deferred_BC] (main:) payment date is selected
+2021-03-12 12:57:30  [Deferred_BC] (main:) Deferred installment payment plan has been created
+2021-03-12 12:57:30  [Deferred_BC] (main:) Assertion passed, we are on the right page
+2021-03-12 12:59:21  [Monthly_BC] (main:) Signed in successfully
+2021-03-12 12:59:23  [Monthly_BC] (main:) Bill to be paid is selected
+2021-03-12 12:59:27  [Monthly_BC] (main:) We are paying with Business Checking
+2021-03-12 12:59:29  [Monthly_BC] (main:) We have accepted the ACH terms
+2021-03-12 12:59:33  [Monthly_BC] (main:) we have selected the frequency
+2021-03-12 12:59:34  [Monthly_BC] (main:) payment date is selected
+2021-03-12 12:59:39  [Monthly_BC] (main:) Monthly installment payment plan has been created
+2021-03-12 12:59:39  [Monthly_BC] (main:) Assertion passed, we are on the right page
+2021-03-12 13:03:31  [Quarterly_BC] (main:) Signed in successfully
+2021-03-12 13:03:34  [Quarterly_BC] (main:) Bill to be paid is selected
+2021-03-12 13:03:38  [Quarterly_BC] (main:) We are paying with Business Checking
+2021-03-12 13:03:40  [Quarterly_BC] (main:) We have accepted the ACH terms
+2021-03-12 13:03:43  [Quarterly_BC] (main:) we have selected the frequency
+2021-03-12 13:03:44  [Quarterly_BC] (main:) payment date is selected
+2021-03-12 13:03:49  [Quarterly_BC] (main:) Quarterly installment payment plan has been created
+2021-03-12 13:03:49  [Quarterly_BC] (main:) Assertion passed, we are on the right page
+2021-03-12 13:05:07  [Recur_AnnualBC] (main:) Signed in successfully
+2021-03-12 13:05:09  [Recur_AnnualBC] (main:) Bill to be paid is selected
+2021-03-12 13:05:13  [Recur_AnnualBC] (main:) We are paying with Business Checking
+2021-03-12 13:05:15  [Recur_AnnualBC] (main:) We have accepted the ACH terms
+2021-03-12 13:05:18  [Recur_AnnualBC] (main:) we have selected the frequency
+2021-03-12 13:05:19  [Recur_AnnualBC] (main:) payment date is selected
+2021-03-12 13:05:25  [Recur_AnnualBC] (main:) Recurring annual payment plan has been created
+2021-03-12 13:05:25  [Recur_AnnualBC] (main:) Assertion passed, we are on the right page
+2021-03-12 13:06:43  [Recur_DailyBC] (main:) Signed in successfully
+2021-03-12 13:06:45  [Recur_DailyBC] (main:) Bill to be paid is selected
+2021-03-12 13:06:49  [Recur_DailyBC] (main:) We are paying with Business Checking
+2021-03-12 13:06:51  [Recur_DailyBC] (main:) We have accepted the ACH terms
+2021-03-12 13:06:55  [Recur_DailyBC] (main:) we have selected the frequency
+2021-03-12 13:06:56  [Recur_DailyBC] (main:) payment date is selected
+2021-03-12 13:07:01  [Recur_DailyBC] (main:) Recurring daily payment plan has been created
+2021-03-12 13:07:01  [Recur_DailyBC] (main:) Assertion passed, we are on the right page
+2021-03-12 13:08:23  [Recur_DeferredBC] (main:) Signed in successfully
+2021-03-12 13:08:25  [Recur_DeferredBC] (main:) Bill to be paid is selected
+2021-03-12 13:08:30  [Recur_DeferredBC] (main:) We are paying with Business Checking
+2021-03-12 13:08:32  [Recur_DeferredBC] (main:) We have accepted the ACH terms
+2021-03-12 13:08:35  [Recur_DeferredBC] (main:) we have selected the frequency
+2021-03-12 13:08:36  [Recur_DeferredBC] (main:) payment date is selected
+2021-03-12 13:08:41  [Recur_DeferredBC] (main:) Recurring deferred payment plan has been created
+2021-03-12 13:08:41  [Recur_DeferredBC] (main:) Assertion passed, we are on the right page
+2021-03-12 13:10:20  [Recur_MonthlyBC] (main:) Signed in successfully
+2021-03-12 13:10:21  [Recur_MonthlyBC] (main:) Bill to be paid is selected
+2021-03-12 13:10:24  [Recur_MonthlyBC] (main:) We are paying with Business Checking
+2021-03-12 13:10:25  [Recur_MonthlyBC] (main:) We have accepted the ACH terms
+2021-03-12 13:10:27  [Recur_MonthlyBC] (main:) we have selected the frequency
+2021-03-12 13:10:27  [Recur_MonthlyBC] (main:) payment date is selected
+2021-03-12 13:10:33  [Recur_MonthlyBC] (main:) Recurring monthly payment plan has been created
+2021-03-12 13:10:33  [Recur_MonthlyBC] (main:) Assertion passed, we are on the right page
+2021-03-12 13:12:03  [Recur_QuarterlyBC] (main:) Signed in successfully
+2021-03-12 13:12:05  [Recur_QuarterlyBC] (main:) Bill to be paid is selected
+2021-03-12 13:12:10  [Recur_QuarterlyBC] (main:) We are paying with Business Checking
+2021-03-12 13:12:12  [Recur_QuarterlyBC] (main:) We have accepted the ACH terms
+2021-03-12 13:12:15  [Recur_QuarterlyBC] (main:) we have selected the frequency
+2021-03-12 13:12:15  [Recur_QuarterlyBC] (main:) payment date is selected
+2021-03-12 13:12:20  [Recur_QuarterlyBC] (main:) Recurring quarterly payment plan has been created
+2021-03-12 13:12:20  [Recur_QuarterlyBC] (main:) Assertion passed, we are on the right page
+2021-03-12 13:13:51  [Recur_WeeklyBC] (main:) Signed in successfully
+2021-03-12 13:13:52  [Recur_WeeklyBC] (main:) Bill to be paid is selected
+2021-03-12 13:13:55  [Recur_WeeklyBC] (main:) We are paying with Business Checking
+2021-03-12 13:13:56  [Recur_WeeklyBC] (main:) We have accepted the ACH terms
+2021-03-12 13:13:58  [Recur_WeeklyBC] (main:) we have selected the frequency
+2021-03-12 13:13:58  [Recur_WeeklyBC] (main:) payment date is selected
+2021-03-12 13:14:03  [Recur_WeeklyBC] (main:) Recurring weekly payment plan has been created
+2021-03-12 13:14:03  [Recur_WeeklyBC] (main:) Assertion passed, we are on the right page
+2021-03-12 13:15:12  [Weekly_BC] (main:) Signed in successfully
+2021-03-12 13:15:14  [Weekly_BC] (main:) Bill to be paid is selected
+2021-03-12 13:15:18  [Weekly_BC] (main:) We are paying with Business Checking
+2021-03-12 13:15:20  [Weekly_BC] (main:) We have accepted the ACH terms
+2021-03-12 13:15:23  [Weekly_BC] (main:) we have selected the frequency
+2021-03-12 13:15:24  [Weekly_BC] (main:) payment date is selected
+2021-03-12 13:15:29  [Weekly_BC] (main:) Weekly installment payment plan has been created
+2021-03-12 13:15:29  [Weekly_BC] (main:) Assertion passed, we are on the right page
+2021-05-04 11:04:14  [Annual_PS] (main:) Signed in successfully
+2021-05-04 11:04:16  [Annual_PS] (main:) Bill to be paid is selected
+2021-05-04 11:04:20  [Annual_PS] (main:) We are paying with Personal Checking
+2021-05-04 11:06:29  [Annual_PS] (main:) Signed in successfully
+2021-05-04 11:06:31  [Annual_PS] (main:) Bill to be paid is selected
+2021-05-04 11:06:36  [Annual_PS] (main:) We are paying with Personal Checking
+2021-05-04 11:06:38  [Annual_PS] (main:) We have accepted the ACH terms
+2021-05-04 11:06:41  [Annual_PS] (main:) we have selected the frequency
+2021-05-04 11:06:42  [Annual_PS] (main:) payment date is selected
+2021-05-04 11:06:49  [Annual_PS] (main:) Annual installment payment plan has been created
+2021-05-04 11:06:49  [Annual_PS] (main:) Assertion passed, we are on the right page
+2021-05-04 11:09:15  [AutopayPS] (main:) Signed in successfully
+2021-05-04 11:09:17  [AutopayPS] (main:) Bill to be paid is selected
+2021-05-04 11:09:21  [AutopayPS] (main:) We are paying with Credit Card
+2021-05-04 11:09:23  [AutopayPS] (main:) We have accepted the ACH terms
+2021-05-04 11:09:30  [AutopayPS] (main:) Autopay payment plan has been created
+2021-05-04 11:09:30  [AutopayPS] (main:) Assertion passed, we are on the right page
+2021-05-04 11:16:05  [Daily_PS] (main:) Signed in successfully
+2021-05-04 11:16:07  [Daily_PS] (main:) Bill to be paid is selected
+2021-05-04 11:16:11  [Daily_PS] (main:) We are paying with Personal Savings
+2021-05-04 11:16:14  [Daily_PS] (main:) We have accepted the ACH terms
+2021-05-04 11:16:17  [Daily_PS] (main:) we have selected the frequency
+2021-05-04 11:16:18  [Daily_PS] (main:) payment date is selected
+2021-05-04 11:16:24  [Daily_PS] (main:) Daily installment payment plan has been created
+2021-05-04 11:16:24  [Daily_PS] (main:) Assertion passed, we are on the right page
+2021-05-04 11:19:25  [Deferred_PS] (main:) Signed in successfully
+2021-05-04 11:19:27  [Deferred_PS] (main:) Bill to be paid is selected
+2021-05-04 11:19:32  [Deferred_PS] (main:) We are paying with Personal Savings
+2021-05-04 11:19:34  [Deferred_PS] (main:) We have accepted the ACH terms
+2021-05-04 11:19:37  [Deferred_PS] (main:) we have selected the frequency
+2021-05-04 11:19:38  [Deferred_PS] (main:) payment date is selected
+2021-05-04 11:19:44  [Deferred_PS] (main:) Deferred installment payment plan has been created
+2021-05-04 11:19:44  [Deferred_PS] (main:) Assertion passed, we are on the right page
+2021-05-04 11:22:22  [Monthly_PS] (main:) Signed in successfully
+2021-05-04 11:22:24  [Monthly_PS] (main:) Bill to be paid is selected
+2021-05-04 11:22:29  [Monthly_PS] (main:) We are paying with Personal Savings
+2021-05-04 11:22:31  [Monthly_PS] (main:) We have accepted the ACH terms
+2021-05-04 11:22:34  [Monthly_PS] (main:) we have selected the frequency
+2021-05-04 11:22:35  [Monthly_PS] (main:) payment date is selected
+2021-05-04 11:22:41  [Monthly_PS] (main:) Monthly installment payment plan has been created
+2021-05-04 11:22:41  [Monthly_PS] (main:) Assertion passed, we are on the right page
+2021-05-04 11:26:00  [PS_PayWithSavedPM] (main:) Signed in successfully
+2021-05-04 11:26:02  [PS_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-05-04 11:26:02  [PS_PayWithSavedPM] (main:) We are paying with saved Personal savings Payment Method
+2021-05-04 11:26:04  [PS_PayWithSavedPM] (main:) Signed in successfully
+2021-05-04 11:26:06  [PS_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-05-04 11:26:06  [PS_PayWithSavedPM] (main:) We are paying with saved Personal savings Payment Method
+2021-05-04 11:28:11  [PS_PayWithSavedPM] (main:) Signed in successfully
+2021-05-04 11:28:13  [PS_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-05-04 11:28:13  [PS_PayWithSavedPM] (main:) We are paying with saved Personal savings Payment Method
+2021-05-04 11:28:19  [PS_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-04 11:28:24  [PS_PayWithSavedPM] (main:) Payment has been processed with saved Personal checking Payment Method
+2021-05-04 11:31:39  [Quarterly_PS] (main:) Signed in successfully
+2021-05-04 11:31:41  [Quarterly_PS] (main:) Bill to be paid is selected
+2021-05-04 11:31:45  [Quarterly_PS] (main:) We are paying with Personal Savings
+2021-05-04 11:31:47  [Quarterly_PS] (main:) We have accepted the ACH terms
+2021-05-04 11:31:51  [Quarterly_PS] (main:) we have selected the frequency
+2021-05-04 11:31:52  [Quarterly_PS] (main:) payment date is selected
+2021-05-04 11:31:57  [Quarterly_PS] (main:) Quarterly installment payment plan has been created
+2021-05-04 11:31:57  [Quarterly_PS] (main:) Assertion passed, we are on the right page
+2021-05-04 11:34:30  [Recur_AnnualPS] (main:) Signed in successfully
+2021-05-04 11:34:32  [Recur_AnnualPS] (main:) Bill to be paid is selected
+2021-05-04 11:34:36  [Recur_AnnualPS] (main:) We are paying with Personal Savings
+2021-05-04 11:34:38  [Recur_AnnualPS] (main:) We have accepted the ACH terms
+2021-05-04 11:34:41  [Recur_AnnualPS] (main:) we have selected the frequency
+2021-05-04 11:34:42  [Recur_AnnualPS] (main:) payment date is selected
+2021-05-04 11:34:48  [Recur_AnnualPS] (main:) Recurring annual payment plan has been created
+2021-05-04 11:34:48  [Recur_AnnualPS] (main:) Assertion passed, we are on the right page
+2021-05-04 11:38:08  [Recur_DailyPS] (main:) Signed in successfully
+2021-05-04 11:38:10  [Recur_DailyPS] (main:) Bill to be paid is selected
+2021-05-04 11:38:14  [Recur_DailyPS] (main:) We are paying with Personal Savings
+2021-05-04 11:38:16  [Recur_DailyPS] (main:) We have accepted the ACH terms
+2021-05-04 11:38:19  [Recur_DailyPS] (main:) we have selected the frequency
+2021-05-04 11:38:20  [Recur_DailyPS] (main:) payment date is selected
+2021-05-04 11:38:26  [Recur_DailyPS] (main:) Recurring daily payment plan has been created
+2021-05-04 11:38:26  [Recur_DailyPS] (main:) Assertion passed, we are on the right page
+2021-05-04 11:41:49  [Recur_DeferredPS] (main:) Signed in successfully
+2021-05-04 11:41:52  [Recur_DeferredPS] (main:) Bill to be paid is selected
+2021-05-04 11:41:56  [Recur_DeferredPS] (main:) We are paying with Personal Savings
+2021-05-04 11:41:58  [Recur_DeferredPS] (main:) We have accepted the ACH terms
+2021-05-04 11:42:01  [Recur_DeferredPS] (main:) we have selected the frequency
+2021-05-04 11:42:02  [Recur_DeferredPS] (main:) payment date is selected
+2021-05-04 11:42:07  [Recur_DeferredPS] (main:) Recurring deferred payment plan has been created
+2021-05-04 11:42:08  [Recur_DeferredPS] (main:) Assertion passed, we are on the right page
+2021-05-04 14:55:24  [Recur_MonthlyPS] (main:) Signed in successfully
+2021-05-04 14:55:26  [Recur_MonthlyPS] (main:) Bill to be paid is selected
+2021-05-04 14:55:30  [Recur_MonthlyPS] (main:) We are paying with Personal Savings
+2021-05-04 14:55:32  [Recur_MonthlyPS] (main:) We have accepted the ACH terms
+2021-05-04 14:55:36  [Recur_MonthlyPS] (main:) we have selected the frequency
+2021-05-04 14:55:36  [Recur_MonthlyPS] (main:) payment date is selected
+2021-05-04 14:55:41  [Recur_MonthlyPS] (main:) Recurring monthly payment plan has been created
+2021-05-04 14:55:41  [Recur_MonthlyPS] (main:) Assertion passed, we are on the right page
+2021-05-04 14:57:47  [Recur_QuarterlyPS] (main:) Signed in successfully
+2021-05-04 14:57:50  [Recur_QuarterlyPS] (main:) Bill to be paid is selected
+2021-05-04 14:57:54  [Recur_QuarterlyPS] (main:) We are paying with Personal Savings
+2021-05-04 14:57:56  [Recur_QuarterlyPS] (main:) We have accepted the ACH terms
+2021-05-04 14:57:59  [Recur_QuarterlyPS] (main:) we have selected the frequency
+2021-05-04 14:57:59  [Recur_QuarterlyPS] (main:) payment date is selected
+2021-05-04 14:58:05  [Recur_QuarterlyPS] (main:) Recurring quarterly payment plan has been created
+2021-05-04 14:58:05  [Recur_QuarterlyPS] (main:) Assertion passed, we are on the right page
+2021-05-04 14:59:37  [Recur_WeeklyPS] (main:) Signed in successfully
+2021-05-04 14:59:39  [Recur_WeeklyPS] (main:) Bill to be paid is selected
+2021-05-04 14:59:44  [Recur_WeeklyPS] (main:) We are paying with Personal Savings
+2021-05-04 14:59:46  [Recur_WeeklyPS] (main:) We have accepted the ACH terms
+2021-05-04 14:59:49  [Recur_WeeklyPS] (main:) we have selected the frequency
+2021-05-04 14:59:49  [Recur_WeeklyPS] (main:) payment date is selected
+2021-05-04 14:59:54  [Recur_WeeklyPS] (main:) Recurring weekly payment plan has been created
+2021-05-04 14:59:54  [Recur_WeeklyPS] (main:) Assertion passed, we are on the right page
+2021-05-04 15:02:04  [Weekly_PS] (main:) Signed in successfully
+2021-05-04 15:02:06  [Weekly_PS] (main:) Bill to be paid is selected
+2021-05-04 15:02:10  [Weekly_PS] (main:) We are paying with Personal Savings
+2021-05-04 15:02:12  [Weekly_PS] (main:) We have accepted the ACH terms
+2021-05-04 15:02:15  [Weekly_PS] (main:) we have selected the frequency
+2021-05-04 15:02:17  [Weekly_PS] (main:) payment date is selected
+2021-05-04 15:02:22  [Weekly_PS] (main:) Weekly installment payment plan has been created
+2021-05-04 15:02:22  [Weekly_PS] (main:) Assertion passed, we are on the right page
+2021-05-04 15:20:32  [BC] (main:) Signed in successfully
+2021-05-04 15:20:32  [BC] (main:) Bill to be paid is selected
+2021-05-04 15:20:32  [BC] (main:) We are paying with Business Checking
+2021-05-04 15:20:32  [BC] (main:) We are not saving the payment method
+2021-05-04 15:20:34  [BC] (main:) bank account information is added
+2021-05-04 15:20:42  [BC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-04 15:20:43  [BC] (main:) Payment has been processed with Business Checking
+2021-05-04 15:21:33  [BC] (main:) Signed in successfully
+2021-05-04 15:21:34  [BC] (main:) Bill to be paid is selected
+2021-05-04 15:21:34  [BC] (main:) We are paying with Business Checking
+2021-05-04 15:21:34  [BC] (main:) We are not saving the payment method
+2021-05-04 15:21:36  [BC] (main:) bank account information is added
+2021-05-04 15:21:43  [BC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-04 15:21:44  [BC] (main:) Payment has been processed with Business Checking
+2021-05-05 12:00:48  [PC] (main:) Signed in successfully
+2021-05-05 12:00:48  [PC] (main:) Bill to be paid is selected
+2021-05-05 12:00:48  [PC] (main:) We are paying with Personal Checking
+2021-05-05 12:00:48  [PC] (main:) We are not saving the payment method
+2021-05-05 12:00:50  [PC] (main:) bank account information is added
+2021-05-05 12:00:58  [PC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 12:00:59  [PC] (main:) Payment has been processed with Personal Checking
+2021-05-05 12:02:14  [PS] (main:) Signed in successfully
+2021-05-05 12:02:14  [PS] (main:) Bill to be paid is selected
+2021-05-05 12:02:14  [PS] (main:) We are paying with Personal Savings
+2021-05-05 12:02:14  [PS] (main:) We are not saving the payment method
+2021-05-05 12:02:17  [PS] (main:) bank account information is added
+2021-05-05 12:02:24  [PS] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 12:02:24  [PS] (main:) Payment has been processed with Personal Savings
+2021-05-05 12:07:57  [CC] (main:) Signed in successfully
+2021-05-05 12:07:57  [CC] (main:) Bill to be paid is selected
+2021-05-05 12:07:57  [CC] (main:) We are paying with Credit Card
+2021-05-05 12:07:57  [CC] (main:) We are not saving the payment method
+2021-05-05 12:09:15  [CC] (main:) Signed in successfully
+2021-05-05 12:09:15  [CC] (main:) Bill to be paid is selected
+2021-05-05 12:09:15  [CC] (main:) We are paying with Credit Card
+2021-05-05 12:09:15  [CC] (main:) We are not saving the payment method
+2021-05-05 12:09:25  [CC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 12:09:26  [CC] (main:) Payment has been processed with Credit Card
+2021-05-05 13:54:54  [Annual_CC] (main:) Signed in successfully
+2021-05-05 13:54:56  [Annual_CC] (main:) Bill to be paid is selected
+2021-05-05 13:54:58  [Annual_CC] (main:) Schedule button is selected
+2021-05-05 13:55:01  [Annual_CC] (main:) We are paying with Credit Card
+2021-05-05 13:55:05  [Annual_CC] (main:) we have selected the frequency
+2021-05-05 13:55:06  [Annual_CC] (main:) payment date is selected
+2021-05-05 13:55:12  [Annual_CC] (main:) Annual installment payment plan has been created
+2021-05-05 13:55:12  [Annual_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 13:55:21  [AutopayCC] (main:) Signed in successfully
+2021-05-05 13:55:23  [AutopayCC] (main:) Bill to be paid is selected
+2021-05-05 13:55:27  [AutopayCC] (main:) We are paying with Credit Card
+2021-05-05 13:55:35  [AutopayCC] (main:) Autopay payment plan has been created
+2021-05-05 13:55:35  [AutopayCC] (main:) Assertion passed, we are on the right page
+2021-05-05 13:55:44  [Daily_CC] (main:) Signed in successfully
+2021-05-05 13:55:46  [Daily_CC] (main:) Bill to be paid is selected
+2021-05-05 13:55:48  [Daily_CC] (main:) Schedule button is selected
+2021-05-05 13:55:50  [Daily_CC] (main:) We are paying with Credit Card
+2021-05-05 13:55:55  [Daily_CC] (main:) we have selected the frequency
+2021-05-05 13:55:56  [Daily_CC] (main:) payment date is selected
+2021-05-05 13:56:01  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-05-05 13:56:01  [Daily_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 13:56:11  [Deferred_CC] (main:) Signed in successfully
+2021-05-05 13:56:13  [Deferred_CC] (main:) Bill to be paid is selected
+2021-05-05 13:56:17  [Deferred_CC] (main:) We are paying with Credit Card
+2021-05-05 13:56:21  [Deferred_CC] (main:) we have selected the frequency
+2021-05-05 13:56:23  [Deferred_CC] (main:) payment date is selected
+2021-05-05 13:56:29  [Deferred_CC] (main:) Deferred installment payment plan has been created
+2021-05-05 13:56:29  [Deferred_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 13:56:40  [Monthly_CC] (main:) Signed in successfully
+2021-05-05 13:56:42  [Monthly_CC] (main:) Bill to be paid is selected
+2021-05-05 13:56:45  [Monthly_CC] (main:) Schedule button is selected
+2021-05-05 13:56:47  [Monthly_CC] (main:) We are paying with Credit Card
+2021-05-05 13:56:51  [Monthly_CC] (main:) we have selected the frequency
+2021-05-05 13:56:52  [Monthly_CC] (main:) payment date is selected
+2021-05-05 13:56:59  [Monthly_CC] (main:) Monthly installment payment plan has been created
+2021-05-05 13:56:59  [Monthly_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 13:57:10  [Quarterly_CC] (main:) Signed in successfully
+2021-05-05 13:57:12  [Quarterly_CC] (main:) Bill to be paid is selected
+2021-05-05 13:57:14  [Quarterly_CC] (main:) Schedule button is selected
+2021-05-05 13:57:16  [Quarterly_CC] (main:) We are paying with Credit Card
+2021-05-05 13:57:20  [Quarterly_CC] (main:) we have selected the frequency
+2021-05-05 13:57:21  [Quarterly_CC] (main:) payment date is selected
+2021-05-05 13:57:27  [Quarterly_CC] (main:) Quarterly installment payment plan has been created
+2021-05-05 13:57:27  [Quarterly_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 13:57:36  [Recur_AnnualCC] (main:) Signed in successfully
+2021-05-05 13:57:39  [Recur_AnnualCC] (main:) Bill to be paid is selected
+2021-05-05 13:57:44  [Recur_AnnualCC] (main:) We are paying with Credit Card
+2021-05-05 13:57:48  [Recur_AnnualCC] (main:) we have selected the frequency
+2021-05-05 13:57:49  [Recur_AnnualCC] (main:) payment date is selected
+2021-05-05 13:57:55  [Recur_AnnualCC] (main:) Recurring annual payment plan has been created
+2021-05-05 13:57:55  [Recur_AnnualCC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:31:55  [Annual_CC] (main:) Signed in successfully
+2021-05-05 15:31:57  [Annual_CC] (main:) Bill to be paid is selected
+2021-05-05 15:31:59  [Annual_CC] (main:) Schedule button is selected
+2021-05-05 15:32:01  [Annual_CC] (main:) We are paying with Credit Card
+2021-05-05 15:32:06  [Annual_CC] (main:) we have selected the frequency
+2021-05-05 15:32:07  [Annual_CC] (main:) payment date is selected
+2021-05-05 15:32:13  [Annual_CC] (main:) Annual installment payment plan has been created
+2021-05-05 15:32:13  [Annual_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:32:24  [AutopayCC] (main:) Signed in successfully
+2021-05-05 15:32:26  [AutopayCC] (main:) Bill to be paid is selected
+2021-05-05 15:32:31  [AutopayCC] (main:) We are paying with Credit Card
+2021-05-05 15:32:38  [AutopayCC] (main:) Autopay payment plan has been created
+2021-05-05 15:32:38  [AutopayCC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:32:50  [Daily_CC] (main:) Signed in successfully
+2021-05-05 15:32:52  [Daily_CC] (main:) Bill to be paid is selected
+2021-05-05 15:32:54  [Daily_CC] (main:) Schedule button is selected
+2021-05-05 15:32:56  [Daily_CC] (main:) We are paying with Credit Card
+2021-05-05 15:33:00  [Daily_CC] (main:) we have selected the frequency
+2021-05-05 15:33:01  [Daily_CC] (main:) payment date is selected
+2021-05-05 15:33:07  [Daily_CC] (main:) Daily installment payment plan has been created
+2021-05-05 15:33:07  [Daily_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:33:19  [Deferred_CC] (main:) Signed in successfully
+2021-05-05 15:33:21  [Deferred_CC] (main:) Bill to be paid is selected
+2021-05-05 15:33:26  [Deferred_CC] (main:) We are paying with Credit Card
+2021-05-05 15:33:30  [Deferred_CC] (main:) we have selected the frequency
+2021-05-05 15:33:31  [Deferred_CC] (main:) payment date is selected
+2021-05-05 15:33:36  [Deferred_CC] (main:) Deferred installment payment plan has been created
+2021-05-05 15:33:36  [Deferred_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:33:47  [Monthly_CC] (main:) Signed in successfully
+2021-05-05 15:33:49  [Monthly_CC] (main:) Bill to be paid is selected
+2021-05-05 15:33:52  [Monthly_CC] (main:) Schedule button is selected
+2021-05-05 15:33:54  [Monthly_CC] (main:) We are paying with Credit Card
+2021-05-05 15:33:58  [Monthly_CC] (main:) we have selected the frequency
+2021-05-05 15:33:59  [Monthly_CC] (main:) payment date is selected
+2021-05-05 15:34:05  [Monthly_CC] (main:) Monthly installment payment plan has been created
+2021-05-05 15:34:05  [Monthly_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:34:17  [Quarterly_CC] (main:) Signed in successfully
+2021-05-05 15:34:19  [Quarterly_CC] (main:) Bill to be paid is selected
+2021-05-05 15:34:22  [Quarterly_CC] (main:) Schedule button is selected
+2021-05-05 15:34:24  [Quarterly_CC] (main:) We are paying with Credit Card
+2021-05-05 15:34:28  [Quarterly_CC] (main:) we have selected the frequency
+2021-05-05 15:34:29  [Quarterly_CC] (main:) payment date is selected
+2021-05-05 15:34:35  [Quarterly_CC] (main:) Quarterly installment payment plan has been created
+2021-05-05 15:34:35  [Quarterly_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:34:48  [Recur_AnnualCC] (main:) Signed in successfully
+2021-05-05 15:34:50  [Recur_AnnualCC] (main:) Bill to be paid is selected
+2021-05-05 15:34:54  [Recur_AnnualCC] (main:) We are paying with Credit Card
+2021-05-05 15:34:59  [Recur_AnnualCC] (main:) we have selected the frequency
+2021-05-05 15:35:00  [Recur_AnnualCC] (main:) payment date is selected
+2021-05-05 15:35:06  [Recur_AnnualCC] (main:) Recurring annual payment plan has been created
+2021-05-05 15:35:06  [Recur_AnnualCC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:35:17  [Recur_DailyCC] (main:) Signed in successfully
+2021-05-05 15:35:19  [Recur_DailyCC] (main:) Bill to be paid is selected
+2021-05-05 15:35:23  [Recur_DailyCC] (main:) We are paying with Credit Card
+2021-05-05 15:35:27  [Recur_DailyCC] (main:) we have selected the frequency
+2021-05-05 15:35:28  [Recur_DailyCC] (main:) payment date is selected
+2021-05-05 15:35:34  [Recur_DailyCC] (main:) Recurring Daily payment plan has been created
+2021-05-05 15:35:34  [Recur_DailyCC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:35:45  [Recur_DeferredCC] (main:) Signed in successfully
+2021-05-05 15:35:47  [Recur_DeferredCC] (main:) Bill to be paid is selected
+2021-05-05 15:35:51  [Recur_DeferredCC] (main:) We are paying with Credit Card
+2021-05-05 15:35:55  [Recur_DeferredCC] (main:) we have selected the frequency
+2021-05-05 15:35:56  [Recur_DeferredCC] (main:) payment date is selected
+2021-05-05 15:36:02  [Recur_DeferredCC] (main:) Recurring deferred payment plan has been created
+2021-05-05 15:36:02  [Recur_DeferredCC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:36:12  [Recur_MonthlyCC] (main:) Signed in successfully
+2021-05-05 15:36:14  [Recur_MonthlyCC] (main:) Bill to be paid is selected
+2021-05-05 15:36:18  [Recur_MonthlyCC] (main:) We are paying with Credit Card
+2021-05-05 15:36:22  [Recur_MonthlyCC] (main:) we have selected the frequency
+2021-05-05 15:36:23  [Recur_MonthlyCC] (main:) payment date is selected
+2021-05-05 15:36:29  [Recur_MonthlyCC] (main:) Recurring monthly payment plan has been created
+2021-05-05 15:36:29  [Recur_MonthlyCC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:36:40  [Recur_QuarterlyCC] (main:) Signed in successfully
+2021-05-05 15:36:42  [Recur_QuarterlyCC] (main:) Bill to be paid is selected
+2021-05-05 15:36:46  [Recur_QuarterlyCC] (main:) We are paying with Credit Card
+2021-05-05 15:36:50  [Recur_QuarterlyCC] (main:) we have selected the frequency
+2021-05-05 15:36:51  [Recur_QuarterlyCC] (main:) payment date is selected
+2021-05-05 15:36:57  [Recur_QuarterlyCC] (main:) Recurring quarterly payment plan has been created
+2021-05-05 15:36:57  [Recur_QuarterlyCC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:37:08  [Recur_WeeklyCC] (main:) Signed in successfully
+2021-05-05 15:37:10  [Recur_WeeklyCC] (main:) Bill to be paid is selected
+2021-05-05 15:37:14  [Recur_WeeklyCC] (main:) We are paying with Credit Card
+2021-05-05 15:37:18  [Recur_WeeklyCC] (main:) we have selected the frequency
+2021-05-05 15:37:19  [Recur_WeeklyCC] (main:) payment date is selected
+2021-05-05 15:37:24  [Recur_WeeklyCC] (main:) Recurring weekly payment plan has been created
+2021-05-05 15:37:25  [Recur_WeeklyCC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:37:35  [Weekly_CC] (main:) Signed in successfully
+2021-05-05 15:37:38  [Weekly_CC] (main:) Bill to be paid is selected
+2021-05-05 15:37:40  [Weekly_CC] (main:) Schedule button is selected
+2021-05-05 15:37:42  [Weekly_CC] (main:) We are paying with Credit Card
+2021-05-05 15:37:46  [Weekly_CC] (main:) we have selected the frequency
+2021-05-05 15:37:47  [Weekly_CC] (main:) payment date is selected
+2021-05-05 15:37:52  [Weekly_CC] (main:) Weekly installment payment plan has been created
+2021-05-05 15:37:52  [Weekly_CC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:38:03  [Annual_PC] (main:) Signed in successfully
+2021-05-05 15:38:05  [Annual_PC] (main:) Bill to be paid is selected
+2021-05-05 15:38:09  [Annual_PC] (main:) We are paying with Personal Checking
+2021-05-05 15:38:12  [Annual_PC] (main:) We have accepted the ACH terms
+2021-05-05 15:38:15  [Annual_PC] (main:) we have selected the frequency
+2021-05-05 15:38:16  [Annual_PC] (main:) payment date is selected
+2021-05-05 15:38:21  [Annual_PC] (main:) Annual installment payment plan has been created
+2021-05-05 15:38:21  [Annual_PC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:38:32  [AutopayPC] (main:) Signed in successfully
+2021-05-05 15:38:34  [AutopayPC] (main:) Bill to be paid is selected
+2021-05-05 15:38:38  [AutopayPC] (main:) We are paying with Personal Checking
+2021-05-05 15:38:40  [AutopayPC] (main:) We have accepted the ACH terms
+2021-05-05 15:38:46  [AutopayPC] (main:) Autopay payment plan has been created
+2021-05-05 15:38:46  [AutopayPC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:38:57  [Daily_PC] (main:) Signed in successfully
+2021-05-05 15:38:59  [Daily_PC] (main:) Bill to be paid is selected
+2021-05-05 15:39:03  [Daily_PC] (main:) We are paying with Personal Checking
+2021-05-05 15:39:05  [Daily_PC] (main:) We have accepted the ACH terms
+2021-05-05 15:39:08  [Daily_PC] (main:) we have selected the frequency
+2021-05-05 15:39:09  [Daily_PC] (main:) payment date is selected
+2021-05-05 15:39:15  [Daily_PC] (main:) Daily installment payment plan has been created
+2021-05-05 15:39:15  [Daily_PC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:39:26  [Deferred_PC] (main:) Signed in successfully
+2021-05-05 15:39:28  [Deferred_PC] (main:) Bill to be paid is selected
+2021-05-05 15:39:32  [Deferred_PC] (main:) We are paying with Personal Checking
+2021-05-05 15:39:34  [Deferred_PC] (main:) We have accepted the ACH terms
+2021-05-05 15:39:37  [Deferred_PC] (main:) we have selected the frequency
+2021-05-05 15:39:38  [Deferred_PC] (main:) payment date is selected
+2021-05-05 15:39:44  [Deferred_PC] (main:) Deferred installment payment plan has been created
+2021-05-05 15:39:44  [Deferred_PC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:39:56  [Monthly_PC] (main:) Signed in successfully
+2021-05-05 15:39:59  [Monthly_PC] (main:) Bill to be paid is selected
+2021-05-05 15:40:03  [Monthly_PC] (main:) We are paying with Personal Checking
+2021-05-05 15:40:05  [Monthly_PC] (main:) We have accepted the ACH terms
+2021-05-05 15:40:08  [Monthly_PC] (main:) we have selected the frequency
+2021-05-05 15:40:09  [Monthly_PC] (main:) payment date is selected
+2021-05-05 15:40:15  [Monthly_PC] (main:) Monthly installment payment plan has been created
+2021-05-05 15:40:15  [Monthly_PC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:40:27  [Quarterly_PC] (main:) Signed in successfully
+2021-05-05 15:40:30  [Quarterly_PC] (main:) Bill to be paid is selected
+2021-05-05 15:40:34  [Quarterly_PC] (main:) We are paying with Personal Checking
+2021-05-05 15:40:36  [Quarterly_PC] (main:) We have accepted the ACH terms
+2021-05-05 15:40:39  [Quarterly_PC] (main:) we have selected the frequency
+2021-05-05 15:40:40  [Quarterly_PC] (main:) payment date is selected
+2021-05-05 15:40:46  [Quarterly_PC] (main:) Quarterly installment payment plan has been created
+2021-05-05 15:40:46  [Quarterly_PC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:40:58  [Recur_AnnualPC] (main:) Signed in successfully
+2021-05-05 15:41:01  [Recur_AnnualPC] (main:) Bill to be paid is selected
+2021-05-05 15:41:05  [Recur_AnnualPC] (main:) We are paying with Personal Checking
+2021-05-05 15:41:07  [Recur_AnnualPC] (main:) We have accepted the ACH terms
+2021-05-05 15:41:10  [Recur_AnnualPC] (main:) we have selected the frequency
+2021-05-05 15:41:11  [Recur_AnnualPC] (main:) payment date is selected
+2021-05-05 15:41:18  [Recur_AnnualPC] (main:) Recurring annual payment plan has been created
+2021-05-05 15:41:18  [Recur_AnnualPC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:41:31  [Recur_DailyPC] (main:) Signed in successfully
+2021-05-05 15:41:33  [Recur_DailyPC] (main:) Bill to be paid is selected
+2021-05-05 15:41:37  [Recur_DailyPC] (main:) We are paying with Personal Checking
+2021-05-05 15:41:39  [Recur_DailyPC] (main:) We have accepted the ACH terms
+2021-05-05 15:41:43  [Recur_DailyPC] (main:) we have selected the frequency
+2021-05-05 15:41:44  [Recur_DailyPC] (main:) payment date is selected
+2021-05-05 15:41:49  [Recur_DailyPC] (main:) Recurring daily payment plan has been created
+2021-05-05 15:41:49  [Recur_DailyPC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:42:00  [Recur_DeferredPC] (main:) Signed in successfully
+2021-05-05 15:42:02  [Recur_DeferredPC] (main:) Bill to be paid is selected
+2021-05-05 15:42:07  [Recur_DeferredPC] (main:) We are paying with Personal Checking
+2021-05-05 15:42:09  [Recur_DeferredPC] (main:) We have accepted the ACH terms
+2021-05-05 15:42:12  [Recur_DeferredPC] (main:) we have selected the frequency
+2021-05-05 15:42:13  [Recur_DeferredPC] (main:) payment date is selected
+2021-05-05 15:42:18  [Recur_DeferredPC] (main:) Recurring deferred payment plan has been created
+2021-05-05 15:42:18  [Recur_DeferredPC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:42:31  [Recur_MonthlyPC] (main:) Signed in successfully
+2021-05-05 15:42:33  [Recur_MonthlyPC] (main:) Bill to be paid is selected
+2021-05-05 15:42:37  [Recur_MonthlyPC] (main:) We are paying with Personal Checking
+2021-05-05 15:42:40  [Recur_MonthlyPC] (main:) We have accepted the ACH terms
+2021-05-05 15:42:43  [Recur_MonthlyPC] (main:) we have selected the frequency
+2021-05-05 15:42:43  [Recur_MonthlyPC] (main:) payment date is selected
+2021-05-05 15:42:48  [Recur_MonthlyPC] (main:) Recurring monthly payment plan has been created
+2021-05-05 15:42:48  [Recur_MonthlyPC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:42:59  [Recur_QuarterlyPC] (main:) Signed in successfully
+2021-05-05 15:43:01  [Recur_QuarterlyPC] (main:) Bill to be paid is selected
+2021-05-05 15:43:05  [Recur_QuarterlyPC] (main:) We are paying with Personal Checking
+2021-05-05 15:43:07  [Recur_QuarterlyPC] (main:) We have accepted the ACH terms
+2021-05-05 15:43:11  [Recur_QuarterlyPC] (main:) we have selected the frequency
+2021-05-05 15:43:11  [Recur_QuarterlyPC] (main:) payment date is selected
+2021-05-05 15:43:16  [Recur_QuarterlyPC] (main:) Recurring quarterly payment plan has been created
+2021-05-05 15:43:16  [Recur_QuarterlyPC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:43:29  [Recur_WeeklyPC] (main:) Signed in successfully
+2021-05-05 15:43:31  [Recur_WeeklyPC] (main:) Bill to be paid is selected
+2021-05-05 15:43:35  [Recur_WeeklyPC] (main:) We are paying with Personal Checking
+2021-05-05 15:43:37  [Recur_WeeklyPC] (main:) We have accepted the ACH terms
+2021-05-05 15:43:40  [Recur_WeeklyPC] (main:) we have selected the frequency
+2021-05-05 15:43:40  [Recur_WeeklyPC] (main:) payment date is selected
+2021-05-05 15:43:46  [Recur_WeeklyPC] (main:) Recurring weekly payment plan has been created
+2021-05-05 15:43:46  [Recur_WeeklyPC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:43:57  [Weekly_PC] (main:) Signed in successfully
+2021-05-05 15:43:59  [Weekly_PC] (main:) Bill to be paid is selected
+2021-05-05 15:44:03  [Weekly_PC] (main:) We are paying with Personal Checking
+2021-05-05 15:44:05  [Weekly_PC] (main:) We have accepted the ACH terms
+2021-05-05 15:44:08  [Weekly_PC] (main:) we have selected the frequency
+2021-05-05 15:44:09  [Weekly_PC] (main:) payment date is selected
+2021-05-05 15:44:15  [Weekly_PC] (main:) Weekly installment payment plan has been created
+2021-05-05 15:44:15  [Weekly_PC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:44:26  [Annual_PS] (main:) Signed in successfully
+2021-05-05 15:44:28  [Annual_PS] (main:) Bill to be paid is selected
+2021-05-05 15:44:32  [Annual_PS] (main:) We are paying with Personal Savings
+2021-05-05 15:44:34  [Annual_PS] (main:) We have accepted the ACH terms
+2021-05-05 15:44:37  [Annual_PS] (main:) we have selected the frequency
+2021-05-05 15:44:38  [Annual_PS] (main:) payment date is selected
+2021-05-05 15:44:44  [Annual_PS] (main:) Annual installment payment plan has been created
+2021-05-05 15:44:44  [Annual_PS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:44:56  [AutopayPS] (main:) Signed in successfully
+2021-05-05 15:44:58  [AutopayPS] (main:) Bill to be paid is selected
+2021-05-05 15:45:02  [AutopayPS] (main:) We are paying with Personal savings
+2021-05-05 15:45:04  [AutopayPS] (main:) We have accepted the ACH terms
+2021-05-05 15:45:11  [AutopayPS] (main:) Autopay payment plan has been created
+2021-05-05 15:45:11  [AutopayPS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:45:22  [Daily_PS] (main:) Signed in successfully
+2021-05-05 15:45:24  [Daily_PS] (main:) Bill to be paid is selected
+2021-05-05 15:45:28  [Daily_PS] (main:) We are paying with Personal Savings
+2021-05-05 15:45:30  [Daily_PS] (main:) We have accepted the ACH terms
+2021-05-05 15:45:34  [Daily_PS] (main:) we have selected the frequency
+2021-05-05 15:45:35  [Daily_PS] (main:) payment date is selected
+2021-05-05 15:45:40  [Daily_PS] (main:) Daily installment payment plan has been created
+2021-05-05 15:45:40  [Daily_PS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:45:53  [Deferred_PS] (main:) Signed in successfully
+2021-05-05 15:45:55  [Deferred_PS] (main:) Bill to be paid is selected
+2021-05-05 15:45:59  [Deferred_PS] (main:) We are paying with Personal Savings
+2021-05-05 15:46:02  [Deferred_PS] (main:) We have accepted the ACH terms
+2021-05-05 15:46:05  [Deferred_PS] (main:) we have selected the frequency
+2021-05-05 15:46:06  [Deferred_PS] (main:) payment date is selected
+2021-05-05 15:46:11  [Deferred_PS] (main:) Deferred installment payment plan has been created
+2021-05-05 15:46:11  [Deferred_PS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:46:22  [Monthly_PS] (main:) Signed in successfully
+2021-05-05 15:46:24  [Monthly_PS] (main:) Bill to be paid is selected
+2021-05-05 15:46:28  [Monthly_PS] (main:) We are paying with Personal Savings
+2021-05-05 15:46:30  [Monthly_PS] (main:) We have accepted the ACH terms
+2021-05-05 15:46:33  [Monthly_PS] (main:) we have selected the frequency
+2021-05-05 15:46:34  [Monthly_PS] (main:) payment date is selected
+2021-05-05 15:46:40  [Monthly_PS] (main:) Monthly installment payment plan has been created
+2021-05-05 15:46:40  [Monthly_PS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:46:53  [Quarterly_PS] (main:) Signed in successfully
+2021-05-05 15:46:55  [Quarterly_PS] (main:) Bill to be paid is selected
+2021-05-05 15:46:59  [Quarterly_PS] (main:) We are paying with Personal Savings
+2021-05-05 15:47:01  [Quarterly_PS] (main:) We have accepted the ACH terms
+2021-05-05 15:47:04  [Quarterly_PS] (main:) we have selected the frequency
+2021-05-05 15:47:05  [Quarterly_PS] (main:) payment date is selected
+2021-05-05 15:47:11  [Quarterly_PS] (main:) Quarterly installment payment plan has been created
+2021-05-05 15:47:11  [Quarterly_PS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:47:23  [Recur_AnnualPS] (main:) Signed in successfully
+2021-05-05 15:47:25  [Recur_AnnualPS] (main:) Bill to be paid is selected
+2021-05-05 15:47:29  [Recur_AnnualPS] (main:) We are paying with Personal Savings
+2021-05-05 15:47:31  [Recur_AnnualPS] (main:) We have accepted the ACH terms
+2021-05-05 15:47:34  [Recur_AnnualPS] (main:) we have selected the frequency
+2021-05-05 15:47:35  [Recur_AnnualPS] (main:) payment date is selected
+2021-05-05 15:47:41  [Recur_AnnualPS] (main:) Recurring annual payment plan has been created
+2021-05-05 15:47:41  [Recur_AnnualPS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:47:53  [Recur_DailyPS] (main:) Signed in successfully
+2021-05-05 15:47:55  [Recur_DailyPS] (main:) Bill to be paid is selected
+2021-05-05 15:48:00  [Recur_DailyPS] (main:) We are paying with Personal Savings
+2021-05-05 15:48:02  [Recur_DailyPS] (main:) We have accepted the ACH terms
+2021-05-05 15:48:05  [Recur_DailyPS] (main:) we have selected the frequency
+2021-05-05 15:48:06  [Recur_DailyPS] (main:) payment date is selected
+2021-05-05 15:48:12  [Recur_DailyPS] (main:) Recurring daily payment plan has been created
+2021-05-05 15:48:12  [Recur_DailyPS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:48:22  [Recur_DeferredPS] (main:) Signed in successfully
+2021-05-05 15:48:25  [Recur_DeferredPS] (main:) Bill to be paid is selected
+2021-05-05 15:48:29  [Recur_DeferredPS] (main:) We are paying with Personal Savings
+2021-05-05 15:48:31  [Recur_DeferredPS] (main:) We have accepted the ACH terms
+2021-05-05 15:48:34  [Recur_DeferredPS] (main:) we have selected the frequency
+2021-05-05 15:48:35  [Recur_DeferredPS] (main:) payment date is selected
+2021-05-05 15:48:41  [Recur_DeferredPS] (main:) Recurring deferred payment plan has been created
+2021-05-05 15:48:41  [Recur_DeferredPS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:48:52  [Recur_MonthlyPS] (main:) Signed in successfully
+2021-05-05 15:48:54  [Recur_MonthlyPS] (main:) Bill to be paid is selected
+2021-05-05 15:48:58  [Recur_MonthlyPS] (main:) We are paying with Personal Savings
+2021-05-05 15:49:00  [Recur_MonthlyPS] (main:) We have accepted the ACH terms
+2021-05-05 15:49:03  [Recur_MonthlyPS] (main:) we have selected the frequency
+2021-05-05 15:49:03  [Recur_MonthlyPS] (main:) payment date is selected
+2021-05-05 15:49:09  [Recur_MonthlyPS] (main:) Recurring monthly payment plan has been created
+2021-05-05 15:49:09  [Recur_MonthlyPS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:49:20  [Recur_QuarterlyPS] (main:) Signed in successfully
+2021-05-05 15:49:22  [Recur_QuarterlyPS] (main:) Bill to be paid is selected
+2021-05-05 15:49:26  [Recur_QuarterlyPS] (main:) We are paying with Personal Savings
+2021-05-05 15:49:28  [Recur_QuarterlyPS] (main:) We have accepted the ACH terms
+2021-05-05 15:49:31  [Recur_QuarterlyPS] (main:) we have selected the frequency
+2021-05-05 15:49:31  [Recur_QuarterlyPS] (main:) payment date is selected
+2021-05-05 15:49:37  [Recur_QuarterlyPS] (main:) Recurring quarterly payment plan has been created
+2021-05-05 15:49:37  [Recur_QuarterlyPS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:49:48  [Recur_WeeklyPS] (main:) Signed in successfully
+2021-05-05 15:49:50  [Recur_WeeklyPS] (main:) Bill to be paid is selected
+2021-05-05 15:49:54  [Recur_WeeklyPS] (main:) We are paying with Personal Savings
+2021-05-05 15:49:56  [Recur_WeeklyPS] (main:) We have accepted the ACH terms
+2021-05-05 15:49:59  [Recur_WeeklyPS] (main:) we have selected the frequency
+2021-05-05 15:49:59  [Recur_WeeklyPS] (main:) payment date is selected
+2021-05-05 15:50:10  [Recur_WeeklyPS] (main:) Recurring weekly payment plan has been created
+2021-05-05 15:50:10  [Recur_WeeklyPS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:50:21  [Weekly_PS] (main:) Signed in successfully
+2021-05-05 15:50:23  [Weekly_PS] (main:) Bill to be paid is selected
+2021-05-05 15:50:27  [Weekly_PS] (main:) We are paying with Personal Savings
+2021-05-05 15:50:29  [Weekly_PS] (main:) We have accepted the ACH terms
+2021-05-05 15:50:32  [Weekly_PS] (main:) we have selected the frequency
+2021-05-05 15:50:33  [Weekly_PS] (main:) payment date is selected
+2021-05-05 15:50:39  [Weekly_PS] (main:) Weekly installment payment plan has been created
+2021-05-05 15:50:39  [Weekly_PS] (main:) Assertion passed, we are on the right page
+2021-05-05 15:50:50  [Annual_BC] (main:) Signed in successfully
+2021-05-05 15:50:52  [Annual_BC] (main:) Bill to be paid is selected
+2021-05-05 15:50:56  [Annual_BC] (main:) We are paying with Business Checking
+2021-05-05 15:50:58  [Annual_BC] (main:) We have accepted the ACH terms
+2021-05-05 15:51:01  [Annual_BC] (main:) we have selected the frequency
+2021-05-05 15:51:02  [Annual_BC] (main:) payment date is selected
+2021-05-05 15:51:08  [Annual_BC] (main:) Annual installment payment plan has been created
+2021-05-05 15:51:08  [Annual_BC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:51:19  [AutopayBC] (main:) Signed in successfully
+2021-05-05 15:51:21  [AutopayBC] (main:) Bill to be paid is selected
+2021-05-05 15:51:26  [AutopayBC] (main:) We are paying with Business checking
+2021-05-05 15:51:28  [AutopayBC] (main:) We have accepted the ACH terms
+2021-05-05 15:51:35  [AutopayBC] (main:) Autopay payment plan has been created
+2021-05-05 15:51:35  [AutopayBC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:51:47  [Daily_BC] (main:) Signed in successfully
+2021-05-05 15:51:49  [Daily_BC] (main:) Bill to be paid is selected
+2021-05-05 15:51:53  [Daily_BC] (main:) We are paying with Business Checking
+2021-05-05 15:51:55  [Daily_BC] (main:) We have accepted the ACH terms
+2021-05-05 15:51:59  [Daily_BC] (main:) we have selected the frequency
+2021-05-05 15:52:00  [Daily_BC] (main:) payment date is selected
+2021-05-05 15:52:05  [Daily_BC] (main:) Daily installment payment plan has been created
+2021-05-05 15:52:05  [Daily_BC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:52:16  [Deferred_BC] (main:) Signed in successfully
+2021-05-05 15:52:18  [Deferred_BC] (main:) Bill to be paid is selected
+2021-05-05 15:52:22  [Deferred_BC] (main:) We are paying with Business Checking
+2021-05-05 15:52:25  [Deferred_BC] (main:) We have accepted the ACH terms
+2021-05-05 15:52:28  [Deferred_BC] (main:) we have selected the frequency
+2021-05-05 15:52:29  [Deferred_BC] (main:) payment date is selected
+2021-05-05 15:52:35  [Deferred_BC] (main:) Deferred installment payment plan has been created
+2021-05-05 15:52:35  [Deferred_BC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:52:45  [Monthly_BC] (main:) Signed in successfully
+2021-05-05 15:52:47  [Monthly_BC] (main:) Bill to be paid is selected
+2021-05-05 15:52:51  [Monthly_BC] (main:) We are paying with Business Checking
+2021-05-05 15:52:53  [Monthly_BC] (main:) We have accepted the ACH terms
+2021-05-05 15:52:56  [Monthly_BC] (main:) we have selected the frequency
+2021-05-05 15:52:57  [Monthly_BC] (main:) payment date is selected
+2021-05-05 15:53:03  [Monthly_BC] (main:) Monthly installment payment plan has been created
+2021-05-05 15:53:03  [Monthly_BC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:53:16  [Quarterly_BC] (main:) Signed in successfully
+2021-05-05 15:53:18  [Quarterly_BC] (main:) Bill to be paid is selected
+2021-05-05 15:53:22  [Quarterly_BC] (main:) We are paying with Business Checking
+2021-05-05 15:53:24  [Quarterly_BC] (main:) We have accepted the ACH terms
+2021-05-05 15:53:28  [Quarterly_BC] (main:) we have selected the frequency
+2021-05-05 15:53:29  [Quarterly_BC] (main:) payment date is selected
+2021-05-05 15:53:35  [Quarterly_BC] (main:) Quarterly installment payment plan has been created
+2021-05-05 15:53:35  [Quarterly_BC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:53:45  [Recur_AnnualBC] (main:) Signed in successfully
+2021-05-05 15:53:48  [Recur_AnnualBC] (main:) Bill to be paid is selected
+2021-05-05 15:53:52  [Recur_AnnualBC] (main:) We are paying with Business Checking
+2021-05-05 15:53:54  [Recur_AnnualBC] (main:) We have accepted the ACH terms
+2021-05-05 15:53:57  [Recur_AnnualBC] (main:) we have selected the frequency
+2021-05-05 15:53:58  [Recur_AnnualBC] (main:) payment date is selected
+2021-05-05 15:54:04  [Recur_AnnualBC] (main:) Recurring annual payment plan has been created
+2021-05-05 15:54:04  [Recur_AnnualBC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:54:15  [Recur_DailyBC] (main:) Signed in successfully
+2021-05-05 15:54:17  [Recur_DailyBC] (main:) Bill to be paid is selected
+2021-05-05 15:54:21  [Recur_DailyBC] (main:) We are paying with Business Checking
+2021-05-05 15:54:23  [Recur_DailyBC] (main:) We have accepted the ACH terms
+2021-05-05 15:54:26  [Recur_DailyBC] (main:) we have selected the frequency
+2021-05-05 15:54:27  [Recur_DailyBC] (main:) payment date is selected
+2021-05-05 15:54:33  [Recur_DailyBC] (main:) Recurring daily payment plan has been created
+2021-05-05 15:54:33  [Recur_DailyBC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:54:44  [Recur_DeferredBC] (main:) Signed in successfully
+2021-05-05 15:54:46  [Recur_DeferredBC] (main:) Bill to be paid is selected
+2021-05-05 15:54:50  [Recur_DeferredBC] (main:) We are paying with Business Checking
+2021-05-05 15:54:52  [Recur_DeferredBC] (main:) We have accepted the ACH terms
+2021-05-05 15:54:56  [Recur_DeferredBC] (main:) we have selected the frequency
+2021-05-05 15:54:57  [Recur_DeferredBC] (main:) payment date is selected
+2021-05-05 15:55:02  [Recur_DeferredBC] (main:) Recurring deferred payment plan has been created
+2021-05-05 15:55:02  [Recur_DeferredBC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:55:13  [Recur_MonthlyBC] (main:) Signed in successfully
+2021-05-05 15:55:15  [Recur_MonthlyBC] (main:) Bill to be paid is selected
+2021-05-05 15:55:18  [Recur_MonthlyBC] (main:) We are paying with Business Checking
+2021-05-05 15:55:19  [Recur_MonthlyBC] (main:) We have accepted the ACH terms
+2021-05-05 15:55:21  [Recur_MonthlyBC] (main:) we have selected the frequency
+2021-05-05 15:55:21  [Recur_MonthlyBC] (main:) payment date is selected
+2021-05-05 15:55:27  [Recur_MonthlyBC] (main:) Recurring monthly payment plan has been created
+2021-05-05 15:55:27  [Recur_MonthlyBC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:55:38  [Recur_QuarterlyBC] (main:) Signed in successfully
+2021-05-05 15:55:40  [Recur_QuarterlyBC] (main:) Bill to be paid is selected
+2021-05-05 15:55:44  [Recur_QuarterlyBC] (main:) We are paying with Business Checking
+2021-05-05 15:55:46  [Recur_QuarterlyBC] (main:) We have accepted the ACH terms
+2021-05-05 15:55:49  [Recur_QuarterlyBC] (main:) we have selected the frequency
+2021-05-05 15:55:49  [Recur_QuarterlyBC] (main:) payment date is selected
+2021-05-05 15:55:55  [Recur_QuarterlyBC] (main:) Recurring quarterly payment plan has been created
+2021-05-05 15:55:55  [Recur_QuarterlyBC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:56:08  [Recur_WeeklyBC] (main:) Signed in successfully
+2021-05-05 15:56:09  [Recur_WeeklyBC] (main:) Bill to be paid is selected
+2021-05-05 15:56:12  [Recur_WeeklyBC] (main:) We are paying with Business Checking
+2021-05-05 15:56:14  [Recur_WeeklyBC] (main:) We have accepted the ACH terms
+2021-05-05 15:56:16  [Recur_WeeklyBC] (main:) we have selected the frequency
+2021-05-05 15:56:16  [Recur_WeeklyBC] (main:) payment date is selected
+2021-05-05 15:56:22  [Recur_WeeklyBC] (main:) Recurring weekly payment plan has been created
+2021-05-05 15:56:22  [Recur_WeeklyBC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:56:33  [Weekly_BC] (main:) Signed in successfully
+2021-05-05 15:56:35  [Weekly_BC] (main:) Bill to be paid is selected
+2021-05-05 15:56:39  [Weekly_BC] (main:) We are paying with Business Checking
+2021-05-05 15:56:41  [Weekly_BC] (main:) We have accepted the ACH terms
+2021-05-05 15:56:44  [Weekly_BC] (main:) we have selected the frequency
+2021-05-05 15:56:45  [Weekly_BC] (main:) payment date is selected
+2021-05-05 15:56:51  [Weekly_BC] (main:) Weekly installment payment plan has been created
+2021-05-05 15:56:51  [Weekly_BC] (main:) Assertion passed, we are on the right page
+2021-05-05 15:57:02  [BC] (main:) Signed in successfully
+2021-05-05 15:57:03  [BC] (main:) Bill to be paid is selected
+2021-05-05 15:57:03  [BC] (main:) We are paying with Business Checking
+2021-05-05 15:57:03  [BC] (main:) We are not saving the payment method
+2021-05-05 15:57:05  [BC] (main:) bank account information is added
+2021-05-05 15:57:13  [BC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 15:57:13  [BC] (main:) Payment has been processed with Business Checking
+2021-05-05 15:57:24  [CC] (main:) Signed in successfully
+2021-05-05 15:57:24  [CC] (main:) Bill to be paid is selected
+2021-05-05 15:57:24  [CC] (main:) We are paying with Credit Card
+2021-05-05 15:57:24  [CC] (main:) We are not saving the payment method
+2021-05-05 15:57:34  [CC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 15:57:35  [CC] (main:) Payment has been processed with Credit Card
+2021-05-05 15:57:45  [PC] (main:) Signed in successfully
+2021-05-05 15:57:45  [PC] (main:) Bill to be paid is selected
+2021-05-05 15:57:46  [PC] (main:) We are paying with Personal Checking
+2021-05-05 15:57:46  [PC] (main:) We are not saving the payment method
+2021-05-05 15:57:48  [PC] (main:) bank account information is added
+2021-05-05 15:57:55  [PC] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 15:57:56  [PC] (main:) Payment has been processed with Personal Checking
+2021-05-05 15:58:07  [PS] (main:) Signed in successfully
+2021-05-05 15:58:07  [PS] (main:) Bill to be paid is selected
+2021-05-05 15:58:07  [PS] (main:) We are paying with Personal Savings
+2021-05-05 15:58:07  [PS] (main:) We are not saving the payment method
+2021-05-05 15:58:09  [PS] (main:) bank account information is added
+2021-05-05 15:58:17  [PS] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 15:58:17  [PS] (main:) Payment has been processed with Personal Savings
+2021-05-05 15:58:29  [BC_PayWithSavedPM] (main:) Signed in successfully
+2021-05-05 15:58:31  [BC_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-05-05 15:58:31  [BC_PayWithSavedPM] (main:) We are paying with a saved Business Checking payment method
+2021-05-05 15:58:41  [BC_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 15:58:41  [BC_PayWithSavedPM] (main:) Payment has been processed with Business Checking
+2021-05-05 15:58:52  [PC_PayWithSavedPM] (main:) Signed in successfully
+2021-05-05 15:58:54  [PC_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-05-05 15:58:54  [PC_PayWithSavedPM] (main:) We are paying with saved Personal checking Payment Method
+2021-05-05 15:58:59  [PC_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 15:59:01  [PC_PayWithSavedPM] (main:) Payment has been processed with saved Personal checking Payment Method
+2021-05-05 15:59:11  [CC_PayWithSavedPM] (main:) Signed in successfully
+2021-05-05 15:59:13  [CC_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-05-05 15:59:14  [CC_PayWithSavedPM] (main:) We are paying with saved Credit Card Payment Method
+2021-05-05 15:59:18  [CC_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 15:59:19  [CC_PayWithSavedPM] (main:) Payment has been processed with saved Credit Card Payment Method
+2021-05-05 15:59:30  [PS_PayWithSavedPM] (main:) Signed in successfully
+2021-05-05 15:59:32  [PS_PayWithSavedPM] (main:) Bill to be paid is selected
+2021-05-05 15:59:32  [PS_PayWithSavedPM] (main:) We are paying with saved Personal savings Payment Method
+2021-05-05 15:59:36  [PS_PayWithSavedPM] (main:) Assertion passed, We are on the Payment confirmation page
+2021-05-05 15:59:39  [PS_PayWithSavedPM] (main:) Payment has been processed with saved Personal savings Payment Method

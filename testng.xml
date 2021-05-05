@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.testing.TestScripts.PS_PayWithSavedPM"/>
+      <class name="org.testing.TestScripts.PC"/>
+      <class name="org.testing.TestScripts.PS"/>
+      <class name="org.testing.TestScripts.CC"/>
+      <class name="org.testing.TestScripts.BC"/>
+      <class name="org.testing.TestScripts.BC_PayWithSavedPM"/>
+      <class name="org.testing.TestScripts.PC_PayWithSavedPM"/>
+      <class name="org.testing.TestScripts.BC_createPM"/>
+      <class name="org.testing.TestScripts.CC_PayWithSavedPM"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
